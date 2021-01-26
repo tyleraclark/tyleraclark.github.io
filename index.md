@@ -6,6 +6,10 @@ My name is Tyler A. Clark. I am a researcher at the [National Consortium for the
 
 My research focuses on the application of statistical, computational, and mathematical models to analyze behavior of violent non-state actors, including natural language processing, machine learning, and stochastic processes. I received my B.A. in Mathematics and Physics from Connecticut College in 2019.
 
+### Links
+
+![LinkedIn] (https://image.flaticon.com/icons/png/512/174/174857.png)
+
 ### Publications & Presentations
 
 Clark, T. A., & Guarrieri, T. R. (2020, August). Modeling terrorist attack cycles as a stochastic process: Analyzing chemical, biological, 
