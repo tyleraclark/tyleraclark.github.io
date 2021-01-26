@@ -8,6 +8,7 @@ My research focuses on the application of statistical, computational, and mathem
 
 ### Links
 
+<a href="https://www.start.umd.edu/people/tyler-clark/"><img src="https://raw.githubusercontent.com/tyleraclark/tyleraclark.github.io/main/favicon.ico" width="20" height="20" /> </a>
 <a href="https://www.linkedin.com/in/tyler-a-clark/"><img src="https://github.com/tyleraclark/tyleraclark.github.io/blob/main/LinkedIn.png?raw=true" width="20" height="20" /> </a>
 
 ### Publications & Presentations
