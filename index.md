@@ -1,6 +1,6 @@
 ## Welcome
 
-I am a researcher at the National Consortium for the Study of Terrorism and Responses to Terrorism [[START]](https://www.start.umd.edu). I focus on the application of statistical, computational, and mathematical models to analyze behavior of violent non-state actors, including natural language processing, machine learning, and stochastic processes. I have experience researching and managing projects across a variety of domains and funders including including the Department of Homeland Security, Department of State, US Coast Guard,[^3] and the Defense Advanced Research Projects Agency.
+I am a researcher at the National Consortium for the Study of Terrorism and Responses to Terrorism [[START]](https://www.start.umd.edu). I focus on the application of statistical, computational, and mathematical models to analyze behavior of violent non-state actors, including natural language processing, machine learning, and stochastic processes. I have experience researching and managing projects across a variety of domains and funders including including the Department of Homeland Security,[^1] Department of State,[^2] US Coast Guard,[^3] and the Defense Advanced Research Projects Agency[^4].
 
 I received my B.A. in Mathematics and Physics from Connecticut College in 2019.
 
@@ -19,4 +19,10 @@ Clark, T.A., & Guarrieri, T.R. (2019, November). Simulating CBRN Terrorism Incid
 <a href="https://www.start.umd.edu/people/tyler-clark/"><img src="https://raw.githubusercontent.com/tyleraclark/tyleraclark.github.io/main/favicon.ico" width="20" height="20" /> </a>
 <a href="https://www.linkedin.com/in/tyler-a-clark/"><img src="https://github.com/tyleraclark/tyleraclark.github.io/blob/main/LinkedIn.png?raw=true" width="20" height="20" /> </a>
 
-[^3]: [USCG](https://www.start.umd.edu/research-projects/arctic-all-hazards-gis-platform)
+[^1]: This is the first footnote.
+
+[^2]: b.
+
+[^3]: [USCG](https://www.start.umd.edu/research-projects/arctic-all-hazards-gis-platform).
+
+[^4]: c.
