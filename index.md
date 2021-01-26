@@ -8,7 +8,7 @@ My research focuses on the application of statistical, computational, and mathem
 
 ### Links
 
-![LinkedIn] (https://image.flaticon.com/icons/png/512/174/174857.png)
+<a href="https://www.linkedin.com/in/tyler-a-clark/"><img src="https://github.com/tyleraclark/tyleraclark.github.io/blob/main/LinkedIn.png?raw=true" width="20" height="20" /> </a>
 
 ### Publications & Presentations
 
