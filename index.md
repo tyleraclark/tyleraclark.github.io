@@ -1,12 +1,14 @@
-## Welcome to GitHub Pages
+## Welcome to my Website
 
-You can use the [editor on GitHub](https://github.com/tyleraclark/tyleraclark.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+My name is Tyler A. Clark. I am a researcher at the [National Consortium for the Study of Terrorism and Responses to Terrorism](https://www.start.umd.edu)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### About Me
 
-### Markdown
+My research focuses on the application of statistical, computational, and mathematical models to analyze behavior of violent non-state actors, including natural language processing, machine learning, and stochastic processes. I received my B.A. in Mathematics and Physics from Connecticut College in 2019.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Publications
+
+
 
 ```markdown
 Syntax highlighted code block
