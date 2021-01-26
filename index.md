@@ -1,6 +1,6 @@
 ### Welcome
 
-I am a researcher at the National Consortium for the Study of Terrorism and Responses to Terrorism [[START]](https://www.start.umd.edu). I focus on the application of statistical, computational, and mathematical models to analyze behavior of violent non-state actors, including natural language processing, machine learning, and stochastic processes. I have experience researching and managing projects across a variety of domains and funders including including the Department of Homeland Security,<sup>[^1]</sup> Department of State,<sup>[^2]</sup> US Coast Guard,<sup>[^3]</sup> and the Defense Advanced Research Projects Agency<sup>[^4]</sup>.
+I am a researcher at the National Consortium for the Study of Terrorism and Responses to Terrorism [[START]](https://www.start.umd.edu). I focus on the application of statistical, computational, and mathematical models to analyze behavior of violent non-state actors, including natural language processing, machine learning, and stochastic processes. I have experience researching and managing projects across a variety of domains and funders including including the Department of Homeland Security,[^1] Department of State,[^2] US Coast Guard,[^3] and the Defense Advanced Research Projects Agency[^4].
 
 I received my B.A. in Mathematics and Physics from Connecticut College in 2019.
 
