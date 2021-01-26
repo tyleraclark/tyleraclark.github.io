@@ -19,10 +19,10 @@ Clark, T.A., & Guarrieri, T.R. (2019, November). Simulating CBRN Terrorism Incid
 <a href="https://www.start.umd.edu/people/tyler-clark/"><img src="https://raw.githubusercontent.com/tyleraclark/tyleraclark.github.io/main/favicon.ico" width="20" height="20" /> </a>
 <a href="https://www.linkedin.com/in/tyler-a-clark/"><img src="https://github.com/tyleraclark/tyleraclark.github.io/blob/main/LinkedIn.png?raw=true" width="20" height="20" /> </a>
 
-[^1]: This is the first footnote.
+[^1]: [The Road Less Traveled: Bolstering the Absorptive Capacity of Southern Central American States to Facilitate the Southern Flow of Northern Triangle Immigrants](https://www.start.umd.edu/research-projects/road-less-traveled-bolstering-absorptive-capacity-southern-central-american-states).
 
-[^2]: b.
+[^2]: [Divergent Dimensions of Radicalization Risk: Migration and Violent Extremism in Sabah](https://www.start.umd.edu/research-projects/divergent-dimensions-radicalization-risk-migration-and-violent-extremism-sabah).
 
-[^3]: [USCG](https://www.start.umd.edu/research-projects/arctic-all-hazards-gis-platform).
+[^3]: [The Arctic All-Hazards GIS Platform](https://www.start.umd.edu/research-projects/arctic-all-hazards-gis-platform).
 
-[^4]: c.
+[^4]: [Advancing U.S. CWMD/CWMT Capabilities in Support of the SIGMA+ Program through Development of Anticipatory Human Social Systems Models and Adversary Weapon Selection Decision Processes](https://www.start.umd.edu/research-projects/advancing-us-cwmdcwmt-capabilities-support-sigma-program-through-development).
