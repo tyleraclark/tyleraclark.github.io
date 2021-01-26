@@ -1,10 +1,6 @@
-## Welcome to my Website
+## Welcome
 
-My name is Tyler A. Clark. I am a researcher at the [National Consortium for the Study of Terrorism and Responses to Terrorism](https://www.start.umd.edu)
-
-### About Me
-
-My research focuses on the application of statistical, computational, and mathematical models to analyze behavior of violent non-state actors, including natural language processing, machine learning, and stochastic processes. I have experience researching and managing projects across a variety of domains and funders including including the Department of Homeland Security, Department of State, US Coast Guard, and the Defense Advanced Research Projects Agency.
+I am a researcher at the National Consortium for the Study of Terrorism and Responses to Terrorism [[START]](https://www.start.umd.edu). I focus on the application of statistical, computational, and mathematical models to analyze behavior of violent non-state actors, including natural language processing, machine learning, and stochastic processes. I have experience researching and managing projects across a variety of domains and funders including including the Department of Homeland Security, Department of State, US Coast Guard, and the Defense Advanced Research Projects Agency.
 
 I received my B.A. in Mathematics and Physics from Connecticut College in 2019.
 
