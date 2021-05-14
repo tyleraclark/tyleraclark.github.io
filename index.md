@@ -13,16 +13,17 @@ I received my B.A. in Mathematics and Physics from Connecticut College in 2019.
 [^4]: [Advancing U.S. CWMD/CWMT Capabilities in Support of the SIGMA+ Program through Development of Anticipatory Human Social Systems Models and Adversary Weapon Selection Decision Processes](https://www.start.umd.edu/research-projects/advancing-us-cwmdcwmt-capabilities-support-sigma-program-through-development).
 
 ### Publications & Presentations
+Clark, T.A. (2021, June). Automated Adversary Threat Generation Tool. Paper presented at the 89th Military Operations Research Society Symposium, Virtual.  
 
-Clark, T. A., & Guarrieri, T. R. (2020, August). Modeling terrorist attack cycles as a stochastic process: Analyzing chemical, biological, radiological, and nuclear (CBRN)   incidents. Journal of Applied Security Research, doi: https://doi.org/10.1080/19361610.2020.1761743
+Clark, T. A., & Guarrieri, T. R. (2020, August). Modeling terrorist attack cycles as a stochastic process: Analyzing chemical, biological, radiological, and nuclear (CBRN)   incidents. Journal of Applied Security Research, doi: https://doi.org/10.1080/19361610.2020.1761743  
 
-Clark, T.A. (2020, June). Modeling terrorist attack cycles as a stochastic process. Paper presented at the 88th Military Operations Research Society Symposium, New London, CT. 
+Clark, T.A. (2020, June). Modeling terrorist attack cycles as a stochastic process. Paper presented at the 88th Military Operations Research Society Symposium, New London, CT.  
 
-Clark, T.A., & Guarrieri, T.R. (2019, November). Simulating CBRN Terrorism Incidents as a Stochastic Chain with Finite Context. Paper presented at the 2019 International Studies Association Midwest Conference, St. Louis, MO.
+Clark, T.A., & Guarrieri, T.R. (2019, November). Simulating CBRN Terrorism Incidents as a Stochastic Chain with Finite Context. Paper presented at the 2019 International Studies Association Midwest Conference, St. Louis, MO.  
 
 ### Contact Me
 
-`tclark12@umd.edu`
+`tclark12[at]umd.edu`
 
 <a href="https://www.start.umd.edu/people/tyler-clark/"><img src="https://raw.githubusercontent.com/tyleraclark/tyleraclark.github.io/main/favicon.ico" width="20" height="20" /> </a>
 <a href="https://www.linkedin.com/in/tyler-a-clark/"><img src="https://github.com/tyleraclark/tyleraclark.github.io/blob/main/LinkedIn.png?raw=true" width="20" height="20" /> </a>
