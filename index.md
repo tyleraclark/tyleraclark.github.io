@@ -1,3 +1,6 @@
+layout: page
+title: Home
+
 ### Welcome
 
 I am a modeling researcher and project manager at the National Consortium for the Study of Terrorism and Responses to Terrorism [[START]](https://www.start.umd.edu) at the University of Maryland, College Park (UMD). My reasearch focus on the application of statistical, computational, and mathematical methodologies to analyze and model the behavior of violent non-state actors, including natural language processing, machine learning, and stochastic processes. I have experience researching and managing projects across a variety of domains and funders including including the Department of Homeland Security,[^1]^,[^2] Department of Defense,[^3] Department of State,[^4] US Coast Guard,[^5] and the Defense Advanced Research Projects Agency[^6].
