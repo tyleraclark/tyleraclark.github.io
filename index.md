@@ -1,6 +1,8 @@
 ### Welcome
 
-I am a modeling researcher and project manager at the National Consortium for the Study of Terrorism and Responses to Terrorism [[START]](https://www.start.umd.edu) at the University of Maryland, College Park (UMD). My reasearch focus on the application of statistical, computational, and mathematical methodologies to analyze and model the behavior of violent non-state actors, including natural language processing, machine learning, and stochastic processes. I have experience researching and managing projects across a variety of domains and funders including including the Department of Homeland Security,[^1][^2] Department of Defense,[^3] Department of State,[^4] US Coast Guard,[^5] and the Defense Advanced Research Projects Agency[^6].
+I am a modeling researcher and project manager at the National Consortium for the Study of Terrorism and Responses to Terrorism [[START]](https://www.start.umd.edu) at the University of Maryland, College Park (UMD). My reasearch focus on the application of statistical, computational, and mathematical methodologies to analyze and model the behavior of violent non-state actors, including natural language processing, machine learning, and stochastic processes. I have experience researching and managing projects across a variety of domains and funders including including the Department of Homeland Security,[^1]^,[^2] Department of Defense,[^3] Department of State,[^4] US Coast Guard,[^5] and the Defense Advanced Research Projects Agency[^6].
+
+[CV](https://tyleraclark.github.io/CV.pdf)
 
 I received my B.A. in Mathematics and Physics from Connecticut College in 2019.
 
@@ -24,6 +26,14 @@ Clark, T. A., & Guarrieri, T. R. (2020, August). Modeling terrorist attack cycle
 Clark, T.A. (2020, June). Modeling terrorist attack cycles as a stochastic process. Paper presented at the 88th Military Operations Research Society Symposium, New London, CT.  
 
 Clark, T.A., & Guarrieri, T.R. (2019, November). Simulating CBRN Terrorism Incidents as a Stochastic Chain with Finite Context. Paper presented at the 2019 International Studies Association Midwest Conference, St. Louis, MO.  
+
+### Honors & Awards
+
+Julia Wells Bower Prize, Connecticut College, 2017, 2018
+David G. Fenton Physics Prize, Connecticut College, 2019
+Jay Levin ’73 Award, Connecticut College, 2019
+Sigma Pi Sigma Inductee, American Institute of Physics, 2019
+Pi Mu Epsilon Inductee, Connecticut Epsilon Chapter, 2019
 
 ### Contact Me
 
