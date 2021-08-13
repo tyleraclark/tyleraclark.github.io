@@ -1,3 +1,7 @@
+---
+layout: page
+title: Publications
+---
 ### Select Publications & Presentations
 
 Clark, T.A., Sin, S. S., & Guarrieri, T. R. (2021, June). Automated Adversary Threat Generation Tool. Paper presented at the 89th Military Operations Research Society Symposium, Virtual.  
