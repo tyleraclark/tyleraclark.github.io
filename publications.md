@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: no-title-post
 title: Publications
 ---
 ### Select Publications & Presentations
