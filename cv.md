@@ -1,7 +1,7 @@
 ---
 layout: page
-title: CV
+title: Curriculum Vitae
 ---
 
-<embed src="https://tyleraclark.github.io/CV.pdf" width="500" height="375" 
+<embed src="https://tyleraclark.github.io/CV.pdf" width="700" height="1150" 
  type="application/pdf">
