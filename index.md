@@ -23,18 +23,6 @@ I received my B.A. in Mathematics and Physics from Connecticut College in 2019.
 
 [^6]: [Advancing U.S. CWMD/CWMT Capabilities in Support of the SIGMA+ Program through Development of Anticipatory Human Social Systems Models and Adversary Weapon Selection Decision Processes](https://www.start.umd.edu/research-projects/advancing-us-cwmdcwmt-capabilities-support-sigma-program-through-development).
 
-### Honors & Awards
-
-Julia Wells Bower Prize, Connecticut College, 2017, 2018
-
-David G. Fenton Physics Prize, Connecticut College, 2019
-
-Jay Levin ’73 Award, Connecticut College, 2019
-
-Sigma Pi Sigma Inductee, American Institute of Physics, 2019
-
-Pi Mu Epsilon Inductee, Connecticut Epsilon Chapter, 2019
-
 ### Contact Me
 
 `tclark12[at]umd.edu`
