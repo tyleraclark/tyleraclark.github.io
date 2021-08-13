@@ -10,7 +10,7 @@ I received my B.A. in Mathematics and Physics from Connecticut College in 2019.
 
 [^2]: [Monitor and Mitigate the Impact of COVID-19 on Public Safety](https://start.umd.edu/research-projects/monitor-and-mitigate-impact-covid-19-public-safety)
 
-[^3]: [Datasets for Modelingand Mitigating Insider Risk (D-MInR)](https://start.umd.edu/research-projects/insider-threat-program)
+[^3]: [Datasets for Modeling and Mitigating Insider Risk (D-MInR)](https://start.umd.edu/research-projects/insider-threat-program)
 
 [^4]: [Divergent Dimensions of Radicalization Risk: Migration and Violent Extremism in Sabah](https://www.start.umd.edu/research-projects/divergent-dimensions-radicalization-risk-migration-and-violent-extremism-sabah).
 
