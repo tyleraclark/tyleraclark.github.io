@@ -1,3 +1,25 @@
 theme: minima
-title: Tyler A. Clark
 description: More coming soon!
+
+# Site wide configuration
+title: Academic Website of Tyler A. Clark
+locale: en_US
+logo: # filename of a logo image that has been placed into your images directory
+# Enter the following platform usernames if you would like for them to appear on your site.
+owner:
+  name: Tyler A. Clark
+  avatar: #bio-photo.jpg
+  bio: "Bio coming soon."
+  email: tclark12@umd.edu
+  # Do not include the @ symbol in your Twitter username
+  twitter: #laderast
+  linkedin: tyler-a-clark
+  github: tyleraclark
+  orcid: # ID Number (ex. 0000-0000-0000-0000)
+  researchgate: #username
+  mendeley: #username
+  google:
+    plus: #username
+    analytics:
+    verify:
+    scholar: #id
