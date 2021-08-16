@@ -19,3 +19,10 @@
 
 - title: Coursework
   url: /coursework/
+
+header_pages:
+- index.md
+- CV.pdf
+- publications.md
+- honors.md
+- coursework.md
