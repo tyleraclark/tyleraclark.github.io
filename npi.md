@@ -14,10 +14,10 @@ title: Projects
   height: 100%;
   width: 100%;
   background-color: black;
-  color: #333;
+  color: #444444;
   text-align: center;
   border-radius: 6px;
-  padding: 5px 0;
+  padding: 50% 0;
   position: absolute;
   z-index: 1;
   bottom: 0%;
