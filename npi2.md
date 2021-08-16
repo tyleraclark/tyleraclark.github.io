@@ -42,8 +42,7 @@ title: Projects2
 .text {
   background-color: transparent;
   color: #333333;
-  font-size: 16px;
-  padding: 10px 40px;
+  font-size: 24px;
 }
 
 a:link {
@@ -59,7 +58,7 @@ a:visited {
 }
 
 a:hover {
-  color: #222222;
+  color: #555555;
   background-color: transparent;
   text-decoration: none;
 }
