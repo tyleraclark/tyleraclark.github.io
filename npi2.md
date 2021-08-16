@@ -27,12 +27,12 @@ title: Projects
   top: 50%;
   left: 0%;
   transform: translate(50%, -50%);
-  -ms-transform: translate(50%, -50%);
+
   text-align: center;
 }
 
 .container:hover .image {
-  opacity: 0.3;
+  opacity: 0.4;
 }
 
 .container:hover .middle {
@@ -83,7 +83,6 @@ a:active {
         </div>
     </a>
 </div>
-<br>
 <br>
 <div class="container">
     <a href="https://tyleraclark.github.io/CMSC320_final_project.html">
