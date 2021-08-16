@@ -40,9 +40,9 @@ title: Projects2
 }
 
 .text {
-  background-color: #333333;
-  color: white;
-  font-size: 32px;
+  background-color: transparent;
+  color: #333333;
+  font-size: 16px;
   padding: 16px 32px;
 }
 
