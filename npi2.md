@@ -25,7 +25,7 @@ title: Projects
   opacity: 0;
   position: absolute;
   top: 50%;
-  left: 50%;
+  left: 0%;
   transform: translate(-50%, -50%);
   -ms-transform: translate(-50%, -50%);
   text-align: center;
@@ -58,7 +58,7 @@ a:visited {
 }
 
 a:hover {
-  color: #cccccc;
+  color: #999999;
   background-color: transparent;
   text-decoration: none;
 }
@@ -78,19 +78,21 @@ a:active {
         <img src="https://raw.githubusercontent.com/tyleraclark/tyleraclark.github.io/main/_images/proj2.png" alt="Avatar" class="image" style="width:100%">
         <div class="middle">
             <div class="text">
-                Moneyball
+                <a href="https://tyleraclark.github.io/CMSC320_project_2.html">Moneyball</a>
             </div>
         </div>
     </a>
 </div>
 
 <div class="container">
-  <img src="https://raw.githubusercontent.com/tyleraclark/tyleraclark.github.io/main/_images/final_proj.png" alt="Avatar" class="image" style="width:100%">
-  <div class="middle">
-    <div class="text">
-        <a href="https://tyleraclark.github.io/CMSC320_final_project.html">
-            Inferring Ideology from Incidents:<br>An Analysis of the Global Terrorism Database
-        </a>
-    </div>
-  </div>
+    <a href="https://tyleraclark.github.io/CMSC320_final_project.html">
+        <img src="https://raw.githubusercontent.com/tyleraclark/tyleraclark.github.io/main/_images/final_proj.png" alt="Avatar" class="image" style="width:100%">
+        <div class="middle">
+            <div class="text">
+                <a href="https://tyleraclark.github.io/CMSC320_final_project.html">
+                    Inferring Ideology from Incidents:<br>An Analysis of the Global Terrorism Database
+                </a>
+            </div>
+        </div>
+    </a>
 </div>
