@@ -58,7 +58,7 @@ a:visited {
 }
 
 a:hover {
-  color: #888888;
+  color: #cccccc;
   background-color: transparent;
   text-decoration: none;
 }
@@ -74,12 +74,14 @@ a:active {
 <h1>Projects</h1>
 
 <div class="container">
-  <img src="https://raw.githubusercontent.com/tyleraclark/tyleraclark.github.io/main/_images/proj2.png" alt="Avatar" class="image" style="width:100%">
-  <div class="middle">
-    <div class="text">
-        <a href="https://tyleraclark.github.io/CMSC320_project_2.html">Moneyball</a>
-    </div>
-  </div>
+    <a href="https://tyleraclark.github.io/CMSC320_project_2.html">
+        <img src="https://raw.githubusercontent.com/tyleraclark/tyleraclark.github.io/main/_images/proj2.png" alt="Avatar" class="image" style="width:100%">
+        <div class="middle">
+            <div class="text">
+                Moneyball
+            </div>
+        </div>
+    </a>
 </div>
 
 <div class="container">
