@@ -25,8 +25,12 @@ title: Projects
   margin-left: 0px;
   
   /* Fade in tooltip - takes 1 second to go from 0% to 100% opac: */
-  opacity: 1;
+  opacity: 0;
   transition: opacity 2s;
+}
+
+img:hover {
+  opacity: 0.5;
 }
 
 .tooltip:hover .tooltiptext {
@@ -83,3 +87,7 @@ a:active {
         </a>
     </span>
 </div>
+
+<a href="https://tyleraclark.github.io/CMSC320_final_project.html">
+    <img src="https://raw.githubusercontent.com/tyleraclark/tyleraclark.github.io/main/_images/final_proj.png" width="960"/> 
+</a>
