@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Projects2
+title: Projects
 ---
 
 <head>
@@ -42,7 +42,7 @@ title: Projects2
 .text {
   background-color: transparent;
   color: #333333;
-  font-size: 24px;
+  font-size: 32px;
 }
 
 a:link {
@@ -58,7 +58,7 @@ a:visited {
 }
 
 a:hover {
-  color: #555555;
+  color: #888888;
   background-color: transparent;
   text-decoration: none;
 }
@@ -71,7 +71,7 @@ a:active {
 
 </style>
 
-# Projects
+<h1>Projects</h1>
 
 <div class="container">
   <img src="https://raw.githubusercontent.com/tyleraclark/tyleraclark.github.io/main/_images/proj2.png" alt="Avatar" class="image" style="width:100%">
