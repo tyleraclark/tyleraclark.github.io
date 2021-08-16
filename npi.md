@@ -25,7 +25,7 @@ title: Projects
   margin-left: 0px;
   
   /* Fade in tooltip - takes 1 second to go from 0% to 100% opac: */
-  opacity: 0.5;
+  opacity: 1;
   transition: opacity 2s;
 }
 
@@ -79,7 +79,7 @@ a:active {
     </a>
     <span class="tooltiptext"> 
         <a href="https://tyleraclark.github.io/CMSC320_final_project.html">
-            Inferring Ideology from Incidents: An Analysis of the Global Terrorism Database
+            Inferring Ideology from Incidents:<br>An Analysis of the Global Terrorism Database
         </a>
     </span>
 </div>
