@@ -26,4 +26,4 @@ I received my B.A. in Mathematics with distinction and Physics with distinction 
 
 <a href="https://www.start.umd.edu/people/tyler-clark/"><img src="https://raw.githubusercontent.com/tyleraclark/tyleraclark.github.io/main/_images/favicon.ico" width="20" height="20" /> </a>
 <a href="https://www.linkedin.com/in/tyler-a-clark/"><img src="https://github.com/tyleraclark/tyleraclark.github.io/blob/main/_images/LinkedIn.png?raw=true" width="20" height="20" /> </a>
-<a href="https://www.linkedin.com/in/tyler-a-clark/"><img src="https://github.com/tyleraclark/tyleraclark.github.io/blob/main/_images/github.svg" width="20" height="20" /> </a>
+<a href="https://github.com/tyleraclark"><img src="https://raw.githubusercontent.com/tyleraclark/tyleraclark.github.io/main/_images/github.svg" width="20" height="20" /> </a>

@@ -18,6 +18,8 @@ title: Coursework
 [STAT 420](https://www-math.umd.edu/undergraduate/departmental-course-pages/offered-courses/415-stat-420-introduction-to-statistics.html): Theory and Method of Statistics
 
 [CMSC 320](https://cmsc320.github.io/2021/index.html): Introduction to Data Science
+- A fun [project](https://tyleraclark.github.io/CMSC320_project_2.html) using simple regression techniques in Python and SQL to investigate MLB Payrolls before and after the Moneyball era
+- A [project](https://tyleraclark.github.io/CMSC320_final_project.html) using natural language processing and machine learning in Python to analyze trends in University of Maryland's Global Terrorism Database
 
 #### Fall 2020
 
