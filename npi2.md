@@ -25,9 +25,9 @@ title: Projects
   opacity: 0;
   position: absolute;
   top: 50%;
-  left: 0%;
-  transform: translate(50%, -50%);
-
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
   text-align: center;
 }
 
