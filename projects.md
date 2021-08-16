@@ -74,22 +74,22 @@ a:active {
 <h1>Projects</h1>
 
 <div class="container">
-    <a href="https://tyleraclark.github.io/CMSC320_project_2.html">
+    <a href="/projects/CMSC320_project_2.html">
         <img src="https://raw.githubusercontent.com/tyleraclark/tyleraclark.github.io/main/_images/proj2.png" alt="Avatar" class="image" style="width:100%">
         <div class="middle">
             <div class="text">
-                <a href="https://tyleraclark.github.io/CMSC320_project_2.html">Moneyball</a>
+                <a href="/projects/CMSC320_project_2.html">Moneyball</a>
             </div>
         </div>
     </a>
 </div>
 <br>
 <div class="container">
-    <a href="https://tyleraclark.github.io/CMSC320_final_project.html">
+    <a href="/projects/CMSC320_final_project.html">
         <img src="https://raw.githubusercontent.com/tyleraclark/tyleraclark.github.io/main/_images/final_proj.png" alt="Avatar" class="image" style="width:100%">
         <div class="middle">
             <div class="text">
-                <a href="https://tyleraclark.github.io/CMSC320_final_project.html">
+                <a href="/projects/CMSC320_final_project.html">
                     Inferring Ideology from Incidents:<br>An Analysis of the Global Terrorism Database
                 </a>
             </div>
