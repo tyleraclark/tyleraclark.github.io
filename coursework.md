@@ -5,19 +5,19 @@ title: Coursework
 ## University of Maryland 
 #### Non Degree Seeking Student (2020-Present)
 
-##### Fall 2021
+#### Fall 2021
 
 [STAT 740](https://academiccatalog.umd.edu/graduate/courses/stat/): Linear Statistical Models I
 
 [STAT 705](https://academiccatalog.umd.edu/graduate/courses/stat/): Computational Statistics
 
-##### Spring 2020
+#### Spring 2020
 
 [STAT 420](https://www-math.umd.edu/undergraduate/departmental-course-pages/offered-courses/415-stat-420-introduction-to-statistics.html): Theory and Method of Statistics
 
 [CMSC 320](https://cmsc320.github.io/2021/index.html): Introduction to Data Science
 
-##### Fall 2020
+#### Fall 2020
 
 [STAT 410](https://www-math.umd.edu/undergraduate/departmental-course-pages/offered-courses/414-stat-410-introduction-to-probability-theory.html): Introduction to Probability Theory
 
@@ -39,7 +39,7 @@ title: Coursework
 
 ## Connecticut College
 #### B.A. in Mathematics with Distinction and Physics with Distinction (2015-2019)
-##### Mathematics
+#### Mathematics
 
 [MAT 495](http://conncoll.smartcatalogiq.com/2020-2021/Catalog/Courses/MAT-MATHEMATICS/400/MAT-495): Seminar in Mathematics
 
@@ -61,7 +61,7 @@ title: Coursework
 
 [MAT 113](http://conncoll.smartcatalogiq.com/2020-2021/Catalog/Courses/MAT-MATHEMATICS/100/MAT-113): Calculus C: Integrals and Series
 
-##### Physics
+#### Physics
 
 [PHY 404](http://conncoll.smartcatalogiq.com/en/2020-2021/Catalog/Courses/PHY-PHYSICS/400/PHY-404): Quantum Mechanics
 
@@ -79,11 +79,11 @@ title: Coursework
 
 [PHY 109](http://conncoll.smartcatalogiq.com/en/2020-2021/Catalog/Courses/PHY-PHYSICS/100/PHY-109): Advanced General Physics I
 
-##### Computer Science
+#### Computer Science
 
 [COM 211](http://conncoll.smartcatalogiq.com/2020-2021/Catalog/Courses/COM-COMPUTER-SCIENCE/200/COM-211): Informatics
 
-##### Political Science, Public Policy, and International Affairs
+#### Political Science, Public Policy, and International Affairs
 
 [HIS 306/ECO 305](http://conncoll.smartcatalogiq.com/2020-2021/Catalog/Courses/HIS-HISTORY/300/HIS-306): Globalization of Urban Poverty
 
@@ -97,7 +97,7 @@ title: Coursework
 
 [ECO 112](http://conncoll.smartcatalogiq.com/2020-2021/Catalog/Courses/ECO-ECONOMICS/100/ECO-112): Introduction to Microeconomics
 
-##### Additional Courses
+#### Additional Courses
 
 [SPA 207](http://conncoll.smartcatalogiq.com/2020-2021/Catalog/Courses/SPA-HISPANIC-STUDIES/200/SPA-207): Advanced Grammar and Composition
 
