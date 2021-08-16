@@ -21,7 +21,7 @@ title: Projects
   z-index: 1;
   bottom: 0%;
   left: 0%;
-  margin-left: 0px;
+  margin-left: -480px;
   
   /* Fade in tooltip - takes 1 second to go from 0% to 100% opac: */
   opacity: 0;
