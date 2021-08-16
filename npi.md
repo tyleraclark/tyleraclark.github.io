@@ -11,7 +11,7 @@ title: Projects
 
 .tooltip .tooltiptext {
   visibility: hidden;
-  height: 100%
+  height: 100%;
   width: 100%;
   background-color: black;
   color: #333;
