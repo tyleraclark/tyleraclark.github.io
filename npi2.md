@@ -83,7 +83,8 @@ a:active {
         </div>
     </a>
 </div>
-
+<br>
+<br>
 <div class="container">
     <a href="https://tyleraclark.github.io/CMSC320_final_project.html">
         <img src="https://raw.githubusercontent.com/tyleraclark/tyleraclark.github.io/main/_images/final_proj.png" alt="Avatar" class="image" style="width:100%">
