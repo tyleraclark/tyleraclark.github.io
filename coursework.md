@@ -2,27 +2,29 @@
 layout: page
 title: Coursework
 ---
-## University of Maryland - Non Degree Seeking Student
+## University of Maryland 
+### Non Degree Seeking Student (2020-Present)
 
-### Fall 2021
+#### Fall 2021
 
-[STAT 740](https://academiccatalog.umd.edu/graduate/courses/stat/): LINEAR STATISTICAL MODELS I
+[STAT 740](https://academiccatalog.umd.edu/graduate/courses/stat/): Linear Statistical Models I
 
 [STAT 705](https://academiccatalog.umd.edu/graduate/courses/stat/): Computational Statistics
 
-### Spring 2020
+#### Spring 2020
 
 [STAT 420](https://www-math.umd.edu/undergraduate/departmental-course-pages/offered-courses/415-stat-420-introduction-to-statistics.html): Theory and Method of Statistics
 
 [CMSC 320](https://cmsc320.github.io/2021/index.html): Introduction to Data Science
 
-### Fall 2020
+#### Fall 2020
 
 [STAT 410](https://www-math.umd.edu/undergraduate/departmental-course-pages/offered-courses/414-stat-410-introduction-to-probability-theory.html): Introduction to Probability Theory
 
-CMSC 216: Introduction to Computer Systems
+[CMSC 216](https://academiccatalog.umd.edu/undergraduate/approved-courses/cmsc/): Introduction to Computer Systems
 
-## University of Edinburgh - Fall 2017
+## University of Edinburgh 
+### Study Away Semester (Fall 2017)
 
 [MATH 10066](http://www.drps.ed.ac.uk/17-18/dpt/cxmath10066.htm): Honours Differential Equations
 
@@ -30,11 +32,13 @@ CMSC 216: Introduction to Computer Systems
 
 [IMES 08036](http://www.drps.ed.ac.uk/17-18/dpt/cximes08036.htm): Modern Middle Eastern History A: Domestic Transformation and International Challenges
 
-## Washington University in St. Louis - January 2017
+## Washington University in St. Louis
+### January Term (January 2017)
 
 [MEMS 253](https://bulletin.wustl.edu/undergrad/engineering/mechanical-engineering-materials-science/#courses): Engineering Mechanics I
 
-## Connecticut College - B.A. in Mathematics and Physics
+## Connecticut College
+### B.A. in Mathematics with Distinction and Physics with Distinction (2015-2019)
 
 [MAT 495](http://conncoll.smartcatalogiq.com/2020-2021/Catalog/Courses/MAT-MATHEMATICS/400/MAT-495): Seminar in Mathematics
 
