@@ -19,7 +19,7 @@ title: Projects
   padding: 5px 0;
   position: absolute;
   z-index: 1;
-  bottom: 100%;
+  bottom: 0%;
   left: 50%;
   margin-left: -60px;
   
@@ -44,6 +44,6 @@ title: Projects
     <a href="https://tyleraclark.github.io/CMSC320_final_project.html">
         <img src="https://raw.githubusercontent.com/tyleraclark/tyleraclark.github.io/main/_images/final_proj.png" width="960"/> 
     </a>
-    <span class="tooltiptext">Final Project
+    <span class="tooltiptext"> Final Project
     </span>
 </div>
