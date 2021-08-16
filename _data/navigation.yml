@@ -1,24 +1,25 @@
 # Site navigation links
-- title: Home
-  url: /
 
-- title: Publications
-  url: /publications/
+#- title: Home
+#  url: /
+
+#- title: Publications
+#  url: /publications/
   
-- title: Honors
-  url: /honors/
+#- title: Honors
+#  url: /honors/
 
-- title: Curriculum Vitae
-  url: /cv/
+#- title: Curriculum Vitae
+#  url: /cv/
 
-- title: CV
-  url: CV.pdf
+#- title: CV
+#  url: CV.pdf
 
-- title: Blog
-  url: /blog/
+#- title: Blog
+#  url: /blog/
 
-- title: Coursework
-  url: /coursework/
+#- title: Coursework
+#  url: /coursework/
 
 header_pages:
   - index.md
