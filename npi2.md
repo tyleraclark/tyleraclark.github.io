@@ -42,7 +42,7 @@ title: Projects
 .text {
   background-color: transparent;
   color: #333333;
-  font-size: 28px;
+  font-size: 24px;
 }
 
 a:link {
