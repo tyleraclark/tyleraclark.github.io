@@ -8,7 +8,7 @@ title: Projects2
 <style>
 .container {
   position: relative;
-  width: 50%;
+  width: 100%;
 }
 
 .image {
@@ -40,7 +40,7 @@ title: Projects2
 }
 
 .text {
-  background-color: #04AA6D;
+  background-color: #444444;
   color: white;
   font-size: 16px;
   padding: 16px 32px;
@@ -53,6 +53,8 @@ title: Projects2
 <div class="container">
   <img src="https://raw.githubusercontent.com/tyleraclark/tyleraclark.github.io/main/_images/proj2.png" alt="Avatar" class="image" style="width:100%">
   <div class="middle">
-    <div class="text">Moneyball</div>
+    <div class="text">
+        <a href="https://tyleraclark.github.io/CMSC320_project_2.html">Moneyball</a>
+    </div>
   </div>
 </div>
