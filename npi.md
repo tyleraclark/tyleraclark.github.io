@@ -13,8 +13,8 @@ title: Projects
   visibility: hidden;
   height: 100%;
   width: 100%;
-  background-color: black;
-  color: #444444;
+  background-color: #444444;
+  color: white;
   text-align: center;
   border-radius: 6px;
   padding: -100% 0;
@@ -26,7 +26,7 @@ title: Projects
   
   /* Fade in tooltip - takes 1 second to go from 0% to 100% opac: */
   opacity: 0.5;
-  transition: opacity 1s;
+  transition: opacity 2s;
 }
 
 .tooltip:hover .tooltiptext {
@@ -47,7 +47,7 @@ a:visited {
 }
 
 a:hover {
-  color: white;
+  color: #222222;
   background-color: transparent;
   text-decoration: none;
 }
