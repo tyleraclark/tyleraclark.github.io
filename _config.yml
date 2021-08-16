@@ -2,14 +2,14 @@ theme: minima
 description: More coming soon!
 
 # Site wide configuration
-title: Website of Tyler A. Clark
+title: Tyler A. Clark
 locale: en_US
 logo: # filename of a logo image that has been placed into your images directory
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
   name: Tyler A. Clark
   avatar: #bio-photo.jpg
-  bio: "Bio coming soon."
+  bio: I am a modeling researcher and project manager at the National Consortium for the Study of Terrorism and Responses to Terrorism [[START]](https://www.start.umd.edu) at the University of Maryland, College Park (UMD). My reasearch focus on the application of statistical, computational, and mathematical methodologies to analyze and model the behavior of violent non-state actors, including natural language processing, machine learning, and stochastic processes. I have experience researching and managing projects across a variety of domains and funders including including the Department of Homeland Security, Department of Defense, Department of State, US Coast Guard, and the Defense Advanced Research Projects Agency.
   email: tclark12@umd.edu
   # Do not include the @ symbol in your Twitter username
   twitter: #laderast
