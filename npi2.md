@@ -40,21 +40,56 @@ title: Projects2
 }
 
 .text {
-  background-color: #444444;
+  background-color: #333333;
   color: white;
-  font-size: 16px;
+  font-size: 32px;
   padding: 16px 32px;
 }
+
+a:link {
+  color: white;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: white;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #222222;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:active {
+  color: white;
+  background-color: transparent;
+  text-decoration: none;
+}
+
 </style>
 
-<h2>Opacity with Box</h2>
-<p>Hover over the image to see the effect.</p>
+# Projects
 
 <div class="container">
   <img src="https://raw.githubusercontent.com/tyleraclark/tyleraclark.github.io/main/_images/proj2.png" alt="Avatar" class="image" style="width:100%">
   <div class="middle">
     <div class="text">
         <a href="https://tyleraclark.github.io/CMSC320_project_2.html">Moneyball</a>
+    </div>
+  </div>
+</div>
+
+<div class="container">
+  <img src="https://raw.githubusercontent.com/tyleraclark/tyleraclark.github.io/main/_images/final_proj.png" alt="Avatar" class="image" style="width:100%">
+  <div class="middle">
+    <div class="text">
+        <a href="https://tyleraclark.github.io/CMSC320_final_project.html">
+            Inferring Ideology from Incidents:<br>An Analysis of the Global Terrorism Database
+        </a>
     </div>
   </div>
 </div>
