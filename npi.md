@@ -40,6 +40,10 @@ title: Projects
 
 <a href="https://tyleraclark.github.io/CMSC320_final_project.html"><img src="https://raw.githubusercontent.com/tyleraclark/tyleraclark.github.io/main/_images/final_proj.png" width="960"/> </a>
 
-<div class="tooltip">Hover over me
-  <span class="tooltiptext">Tooltip text</span>
+<div class="tooltip"> 
+    <a href="https://tyleraclark.github.io/CMSC320_final_project.html">
+        <img src="https://raw.githubusercontent.com/tyleraclark/tyleraclark.github.io/main/_images/final_proj.png" width="960"/> 
+    </a>
+    <span class="tooltiptext">Final Project
+    </span>
 </div>
