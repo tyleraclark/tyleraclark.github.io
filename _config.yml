@@ -4,3 +4,10 @@ description: More coming soon!
 # Site wide configuration
 title: Tyler A. Clark
 locale: en_US
+
+header_pages:
+  - index.md
+  - cv.md
+  - publications.md
+  - honors.md
+  - coursework.md
