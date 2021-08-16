@@ -20,8 +20,8 @@ title: Projects
   position: absolute;
   z-index: 1;
   bottom: 0%;
-  left: 50%;
-  margin-left: -60px;
+  left: 0%;
+  margin-left: 0px;
   
   /* Fade in tooltip - takes 1 second to go from 0% to 100% opac: */
   opacity: 0;
