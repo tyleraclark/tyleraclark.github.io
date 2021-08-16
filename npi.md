@@ -17,7 +17,7 @@ title: Projects
   color: #444444;
   text-align: center;
   border-radius: 6px;
-  padding: 50% 0;
+  padding: -50% 0;
   position: absolute;
   z-index: 1;
   bottom: 0%;
@@ -41,7 +41,10 @@ title: Projects
     <a href="https://tyleraclark.github.io/CMSC320_project_2.html">
         <img src="https://raw.githubusercontent.com/tyleraclark/tyleraclark.github.io/main/_images/proj2.png" width="960"/> 
     </a>
-    <span class="tooltiptext"> Final Project
+    <span class="tooltiptext"> 
+        <a href="https://tyleraclark.github.io/CMSC320_project_2.html">
+            Moneyball
+        </a>
     </span>
 </div>
 
@@ -49,6 +52,9 @@ title: Projects
     <a href="https://tyleraclark.github.io/CMSC320_final_project.html">
         <img src="https://raw.githubusercontent.com/tyleraclark/tyleraclark.github.io/main/_images/final_proj.png" width="960"/> 
     </a>
-    <span class="tooltiptext"> Final Project
+    <span class="tooltiptext"> 
+        <a href="https://tyleraclark.github.io/CMSC320_final_project.html">
+            Inferring Ideology from Incidents: An Analysis of the Global Terrorism Database
+        </a>
     </span>
 </div>
