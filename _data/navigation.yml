@@ -12,14 +12,14 @@
 - title: Curriculum Vitae
   url: /cv/
 
-- title: CV
-  url: CV.pdf
-
 - title: Blog
   url: /blog/
 
 - title: Coursework
   url: /coursework/
+
+- title: Projects
+  url: /npi/
 
 #header_pages:
 #  - index.md
