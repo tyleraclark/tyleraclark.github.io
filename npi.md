@@ -14,7 +14,7 @@ title: Projects
   height: 100%
   width: 100%;
   background-color: black;
-  color: #fff;
+  color: #333;
   text-align: center;
   border-radius: 6px;
   padding: 5px 0;
@@ -25,7 +25,7 @@ title: Projects
   margin-left: 0px;
   
   /* Fade in tooltip - takes 1 second to go from 0% to 100% opac: */
-  opacity: 0;
+  opacity: 0.5;
   transition: opacity 1s;
 }
 
@@ -37,9 +37,13 @@ title: Projects
 
 # Projects
 
-<a href="https://tyleraclark.github.io/CMSC320_project_2.html"><img src="https://raw.githubusercontent.com/tyleraclark/tyleraclark.github.io/main/_images/proj2.png" width="960"/> </a>
-
-<a href="https://tyleraclark.github.io/CMSC320_final_project.html"><img src="https://raw.githubusercontent.com/tyleraclark/tyleraclark.github.io/main/_images/final_proj.png" width="960"/> </a>
+<div class="tooltip"> 
+    <a href="https://tyleraclark.github.io/CMSC320_project_2.html">
+        <img src="https://raw.githubusercontent.com/tyleraclark/tyleraclark.github.io/main/_images/proj2.png" width="960"/> 
+    </a>
+    <span class="tooltiptext"> Final Project
+    </span>
+</div>
 
 <div class="tooltip"> 
     <a href="https://tyleraclark.github.io/CMSC320_final_project.html">
