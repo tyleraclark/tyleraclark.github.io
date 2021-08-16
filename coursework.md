@@ -2,6 +2,8 @@
 layout: page
 title: Coursework
 ---
+# Coursework
+
 ## University of Maryland 
 #### Non Degree Seeking Student (2020-Present)
 
