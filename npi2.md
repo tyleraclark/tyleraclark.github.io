@@ -25,9 +25,9 @@ title: Projects
   opacity: 0;
   position: absolute;
   top: 50%;
-  left: 25%;
-  transform: translate(-25%, -50%);
-  -ms-transform: translate(-25%, -50%);
+  left: 0%;
+  transform: translate(50%, -50%);
+  -ms-transform: translate(50%, -50%);
   text-align: center;
 }
 
@@ -42,7 +42,7 @@ title: Projects
 .text {
   background-color: transparent;
   color: #333333;
-  font-size: 32px;
+  font-size: 28px;
 }
 
 a:link {
@@ -58,7 +58,7 @@ a:visited {
 }
 
 a:hover {
-  color: #999999;
+  color: #888888;
   background-color: transparent;
   text-decoration: none;
 }
