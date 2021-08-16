@@ -43,17 +43,17 @@ title: Projects2
   background-color: transparent;
   color: #333333;
   font-size: 16px;
-  padding: 16px 32px;
+  padding: 10px 40px;
 }
 
 a:link {
-  color: white;
+  color: #333333;
   background-color: transparent;
   text-decoration: none;
 }
 
 a:visited {
-  color: white;
+  color: #333333;
   background-color: transparent;
   text-decoration: none;
 }
@@ -65,7 +65,7 @@ a:hover {
 }
 
 a:active {
-  color: white;
+  color: #333333;
   background-color: transparent;
   text-decoration: none;
 }
