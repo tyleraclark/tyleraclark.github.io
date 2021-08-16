@@ -17,7 +17,7 @@ title: Projects
   color: #444444;
   text-align: center;
   border-radius: 6px;
-  padding: -50% 0;
+  padding: -100% 0;
   position: absolute;
   z-index: 1;
   bottom: 0%;
@@ -33,6 +33,31 @@ title: Projects
   visibility: visible;
   opacity: 1;
 }
+
+a:link {
+  color: white;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: white;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: white;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:active {
+  color: white;
+  background-color: transparent;
+  text-decoration: none;
+}
+
 </style>
 
 # Projects
