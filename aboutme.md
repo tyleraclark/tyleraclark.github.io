@@ -10,4 +10,5 @@ title: About Me
 I received my B.A. in Mathematics and Physics, both with distinction, from Connecticut College<a href="https://conncoll.edu/"><img src="https://raw.githubusercontent.com/tyleraclark/tyleraclark.github.io/main/_images/CC.svg" width="20" height="20" /></a> in 2019.
 <br>
 <br>
+<br>
 <figcaption ALIGN="left">Me in 2018</figcaption>
