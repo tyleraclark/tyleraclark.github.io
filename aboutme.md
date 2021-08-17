@@ -3,14 +3,16 @@ layout: page
 title: About Me
 ---
 
+<style>
 figure {
     display: inline-block;
     text-align: center;
 }
+</style>
 
 # About Me
 
-<figure>
+<figure class="image">
   <img src="https://raw.githubusercontent.com/tyleraclark/tyleraclark.github.io/main/_images/a_photo_of_me.jpg" alt="A picture of Tyler A. Clark from 2018" width="30%" height="30%">
   <figcaption>Me in 2018</figcaption>
 </figure>
