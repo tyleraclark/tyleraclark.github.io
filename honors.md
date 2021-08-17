@@ -2,6 +2,7 @@
 layout: page
 title: Honors
 ---
+
 # Honors & Awards
 
 Julia Wells Bower Prize, Connecticut College, 2017, 2018

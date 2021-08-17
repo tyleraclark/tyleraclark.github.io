@@ -2,6 +2,7 @@
 layout: page
 title: Publications
 ---
+
 # Select Publications & Presentations
 
 Clark, T.A., Sin, S. S., & Guarrieri, T. R. (2021, June). Automated Adversary Threat Generation Tool. Paper presented at the 89th Military Operations Research Society Symposium, Virtual.  
@@ -10,4 +11,6 @@ Clark, T.A., & Guarrieri, T. R. (2020, August). Modeling terrorist attack cycles
 
 Clark, T.A. (2020, June). Modeling terrorist attack cycles as a stochastic process. Paper presented at the 88th Military Operations Research Society Symposium, New London, CT.  
 
-Clark, T.A., & Guarrieri, T.R. (2019, November). Simulating CBRN Terrorism Incidents as a Stochastic Chain with Finite Context. Paper presented at the 2019 International Studies Association Midwest Conference, St. Louis, MO.  
+Clark, T.A., & Guarrieri, T.R. (2019, November). Simulating CBRN Terrorism Incidents as a Stochastic Chain with Finite Context. Paper presented at the 2019 International Studies Association Midwest Conference, St. Louis, MO.
+
+Clark, T.A. (2018, November). Linking Rational Harmonic Functions and Gravitational Lensing. Paper presented at Connecticut College, New London, CT.

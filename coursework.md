@@ -3,47 +3,35 @@ layout: page
 title: Coursework
 ---
 
-# Coursework
-## University of Maryland 
-#### Non Degree Seeking Student (2020-Present)
+<h1> Coursework </h1>
 
-#### Fall 2021
+<h2> University of Maryland</h2>
+
+<h4> Post-Undergratuate (2020-Present) </h4>
+
+<h4> Statistics </h4>
 
 [STAT 740](https://academiccatalog.umd.edu/graduate/courses/stat/): Linear Statistical Models I
 
 [STAT 705](https://academiccatalog.umd.edu/graduate/courses/stat/): Computational Statistics
 
-#### Spring 2020
-
 [STAT 420](https://www-math.umd.edu/undergraduate/departmental-course-pages/offered-courses/415-stat-420-introduction-to-statistics.html): Theory and Method of Statistics
+
+[STAT 410](https://www-math.umd.edu/undergraduate/departmental-course-pages/offered-courses/414-stat-410-introduction-to-probability-theory.html): Introduction to Probability Theory
+
+<h4> Computer Science </h4>
 
 [CMSC 320](https://cmsc320.github.io/2021/index.html): Introduction to Data Science
 - A fun [project](https://tyleraclark.github.io/CMSC320_project_2.html) using simple regression techniques in Python and SQL to investigate MLB Payrolls before and after the Moneyball era
 - A [project](https://tyleraclark.github.io/CMSC320_final_project.html) using natural language processing and machine learning in Python to analyze trends in University of Maryland's Global Terrorism Database
 
-#### Fall 2020
-
-[STAT 410](https://www-math.umd.edu/undergraduate/departmental-course-pages/offered-courses/414-stat-410-introduction-to-probability-theory.html): Introduction to Probability Theory
-
 [CMSC 216](https://academiccatalog.umd.edu/undergraduate/approved-courses/cmsc/): Introduction to Computer Systems
 
-## University of Edinburgh 
-#### Study Away Semester (Fall 2017)
+<h2>Connecticut College</h2>
 
-[MATH 10066](http://www.drps.ed.ac.uk/17-18/dpt/cxmath10066.htm): Honours Differential Equations
+<h4>B.A. in Mathematics with Distinction and Physics with Distinction (2015-2019)</h4>
 
-[INFR 08022](http://www.drps.ed.ac.uk/17-18/dpt/cxinfr08022.htm): Computer Programming Skills and Concepts
-
-[IMES 08036](http://www.drps.ed.ac.uk/17-18/dpt/cximes08036.htm): Modern Middle Eastern History A: Domestic Transformation and International Challenges
-
-## Washington University in St. Louis
-#### January Term (January 2017)
-
-[MEMS 253](https://bulletin.wustl.edu/undergrad/engineering/mechanical-engineering-materials-science/#courses): Engineering Mechanics I
-
-## Connecticut College
-#### B.A. in Mathematics with Distinction and Physics with Distinction (2015-2019)
-#### Mathematics
+<h4>Mathematics</h4>
 
 [MAT 495](http://conncoll.smartcatalogiq.com/2020-2021/Catalog/Courses/MAT-MATHEMATICS/400/MAT-495): Seminar in Mathematics
 
@@ -65,7 +53,7 @@ title: Coursework
 
 [MAT 113](http://conncoll.smartcatalogiq.com/2020-2021/Catalog/Courses/MAT-MATHEMATICS/100/MAT-113): Calculus C: Integrals and Series
 
-#### Physics
+<h4>Physics</h4>
 
 [PHY 404](http://conncoll.smartcatalogiq.com/en/2020-2021/Catalog/Courses/PHY-PHYSICS/400/PHY-404): Quantum Mechanics
 
@@ -83,11 +71,11 @@ title: Coursework
 
 [PHY 109](http://conncoll.smartcatalogiq.com/en/2020-2021/Catalog/Courses/PHY-PHYSICS/100/PHY-109): Advanced General Physics I
 
-#### Computer Science
+<h4>Computer Science</h4>
 
 [COM 211](http://conncoll.smartcatalogiq.com/2020-2021/Catalog/Courses/COM-COMPUTER-SCIENCE/200/COM-211): Informatics
 
-#### Political Science, Public Policy, and International Affairs
+<h4>Political Science, Public Policy, and International Affairs</h4>
 
 [HIS 306/ECO 305](http://conncoll.smartcatalogiq.com/2020-2021/Catalog/Courses/HIS-HISTORY/300/HIS-306): Globalization of Urban Poverty
 
@@ -101,10 +89,26 @@ title: Coursework
 
 [ECO 112](http://conncoll.smartcatalogiq.com/2020-2021/Catalog/Courses/ECO-ECONOMICS/100/ECO-112): Introduction to Microeconomics
 
-#### Additional Courses
+<h4>Additional Courses</h4>
 
 [SPA 207](http://conncoll.smartcatalogiq.com/2020-2021/Catalog/Courses/SPA-HISPANIC-STUDIES/200/SPA-207): Advanced Grammar and Composition
 
 [ENG 155B](http://conncoll.smartcatalogiq.com/2020-2021/Catalog/Courses/ENG-ENGLISH/200/ENG-221): Writing Narrative from Identity
 
 [CLA 104](http://conncoll.smartcatalogiq.com/2020-2021/Catalog/Courses/CLA-CLASSICS/100/CLA-104): Classical Mythology
+
+<h2>University of Edinburgh</h2> 
+
+<h4>Study Away Semester (Fall 2017)</h4>
+
+[MATH 10066](http://www.drps.ed.ac.uk/17-18/dpt/cxmath10066.htm): Honours Differential Equations
+
+[INFR 08022](http://www.drps.ed.ac.uk/17-18/dpt/cxinfr08022.htm): Computer Programming Skills and Concepts
+
+[IMES 08036](http://www.drps.ed.ac.uk/17-18/dpt/cximes08036.htm): Modern Middle Eastern History A: Domestic Transformation and International Challenges
+
+<h2>Washington University in St. Louis</h2>
+
+<h4>January Term (January 2017)</h4>
+
+[MEMS 253](https://bulletin.wustl.edu/undergrad/engineering/mechanical-engineering-materials-science/#courses): Engineering Mechanics I
