@@ -6,7 +6,7 @@ title: About Me
 # About Me
 
 <figure class="image">
-  <img src="https://raw.githubusercontent.com/tyleraclark/tyleraclark.github.io/main/_images/a_photo_of_me.jpg" alt="A picture of Tyler A. Clark from 2018">
+  <img src="https://raw.githubusercontent.com/tyleraclark/tyleraclark.github.io/main/_images/a_photo_of_me.jpg" alt="A picture of Tyler A. Clark from 2018" width="40%" height="40%">
   <figcaption>Me in 2018</figcaption>
 </figure>
 
