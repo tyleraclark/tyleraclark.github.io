@@ -22,8 +22,8 @@ title: Coursework
 <h4> Computer Science </h4>
 
 [CMSC 320](https://cmsc320.github.io/2021/index.html): Introduction to Data Science
-- A fun [project](https://tyleraclark.github.io/CMSC320_project_2.html) using simple regression techniques in Python and SQL to investigate MLB Payrolls before and after the Moneyball era
-- A [project](https://tyleraclark.github.io/CMSC320_final_project.html) using natural language processing and machine learning in Python to analyze trends in University of Maryland's Global Terrorism Database
+- A fun [project](https://tyleraclark.github.io/projects/CMSC320_project_2.html) using simple regression techniques in Python and SQL to investigate MLB Payrolls before and after the Moneyball era
+- A [project](https://tyleraclark.github.io/projects/CMSC320_final_project.html) using natural language processing and machine learning in Python to analyze trends in University of Maryland's Global Terrorism Database
 
 [CMSC 216](https://academiccatalog.umd.edu/undergraduate/approved-courses/cmsc/): Introduction to Computer Systems
 
