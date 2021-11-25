@@ -5,14 +5,14 @@ title: Research
 
 # Research
 
-- [Technical Lead](#techincal-lead)
+- [Technical Lead](#technical-lead)
     - Development of Anticipatory Human Social Systems Models and Adversary Weapon Selection Decision Processes
     - Monitor and Mitigate the Impact of COVID-19 on Public Safety
     - Synthetic Population Assisted Human-in-the-loop Influence Operations Simulation (SPA-HiLIOS)
 - [Project Manager](#project-manager)
     - Divergent Dimensions of Radicalization Risk: Migration and Violent Extremism in Sabah
     - The Road Less Traveled: Bolstering the Absorptive Capacity of Southern Central American States to Facilitate the Southern Flow of Northern Triangle Immigrants
-- [Researcher](#reseacher)
+- [Researcher](#researcher)
     - CBRNe Data Suite
     - Datasets for Modeling and Mitigating Insider Risk (D-MInR)
     - The Arctic All-Hazards GIS Platform
@@ -21,13 +21,13 @@ title: Research
 
 ### Technical Lead ###
 
-Development of Anticipatory Human Social Systems Models and Adversary Weapon Selection Decision Processes
+#### Development of Anticipatory Human Social Systems Models and Adversary Weapon Selection Decision Processes
 
 June 2019 - Present
 
 **Description**
 
-**Methods**
+> This research effort will provide the U.S. government first of-its-kind adversary social systems models in support of the Defense Advanced Research Projects Agency’s SIGMA+ Program. Results of this research effort, in addition to contributing to the success of the SIGMA+ Program, will also contribute greatly to the advancement of the U.S. government’s overall capability to defend against weapons of mass destruction/weapons of mass terror (WMD/WMT) threats. The research will result in several products that will become integral components of the SIGMA+ system, including an Adversary Weapon Selection Dataset (AWSD), an Adversary Automated Template Generation Tool (AATG Tool) and a Geospatial Risk Mapping Tool.
 
 **Responsibilities**
 
@@ -37,13 +37,13 @@ June 2019 - Present
 - Developed an end-to-end automated system producing 30 hypothetical terrorist attack scenarios per minute in Python and embedding nearly two hundred nodes per scenario in real world datasets as a subgraph matching problem for algorithms teams
 - Organized and lead, on average, six hours of meetings per week with stakeholders, funders, partner organizations, and internal teams across multiple projects
 
-Synthetic Population Assisted Human-in-the-loop Influence Operations Simulation (SPA-HiLIOS)
+#### Synthetic Population Assisted Human-in-the-loop Influence Operations Simulation (SPA-HiLIOS)
 
 December 2021 - Present 
 
 ### Project Manager ###
 
-Monitor and Mitigate the Impact of COVID-19 on Public Safety
+#### Monitor and Mitigate the Impact of COVID-19 on Public Safety
 
 April 2021 - January 2022
 
@@ -57,7 +57,7 @@ April 2021 - January 2022
 
 **Methods**
 
-The project will use a three-phase, mixed-methods approach. The team will review relevant and available literature, conduct interviews with first responders, leverage available survey data, analyze community-level contextual factors related to infection and mortality, and study the overall impact on service delivery in a sample of first responder organizations.
+>The project will use a three-phase, mixed-methods approach. The team will review relevant and available literature, conduct interviews with first responders, leverage available survey data, analyze community-level contextual factors related to infection and mortality, and study the overall impact on service delivery in a sample of first responder organizations.
 
 **Responsibilities**
 
@@ -83,7 +83,7 @@ The project will use a three-phase, mixed-methods approach. The team will review
 
 [COVID-19 Topic Dashboard](https://www.secondsight-ts.com/covid19-topic-dashboard)
 
-Divergent Dimensions of Radicalization Risk: Migration and Violent Extremism in Sabah
+#### Divergent Dimensions of Radicalization Risk: Migration and Violent Extremism in Sabah
 
 September 2020 - December 2021
 
@@ -97,7 +97,7 @@ September 2020 - December 2021
 
 **Methods**
 
-The project team trained local researchers to conduct sensitive interviews based on best practices for both focus group and key informant interviews in conflict zones.
+>The project team trained local researchers to conduct sensitive interviews based on best practices for both focus group and key informant interviews in conflict zones.
 
 **Preliminary Findings**
 
@@ -124,7 +124,7 @@ Septmeber 2020 - February 2021
 
 **Methods**
 
-This project utilizes two main methodologies. First, as part of desk study that aims to understand migration dynamics of Northern Triangle migrants as well as Panama and Costa Rica’s capabilities and ongoing efforts, it will collect empirical evidence about the scope and density of Northern Triangle migrants in these countries. Researchers will exclusively use publically available immigration, employment, and public opinion statistics and data from Panama, Costa Rica, as well as Northern Triangle countries. The data then will be modeled using a nested model of analysis, beginning with descriptive statistics and building up to comparative and bivariate analyses. This portion of the project will allow us to better understand the scale of Northern Triangle out-migration throughout the region as well as the economic and social push/pull factors. Second, the project will utilize qualitative data collection by way of key informants that are professionals working in governmental and non-governmental migration organizations as well as focus groups with migrant populations in parts of Costa Rica and Panama with a high migrant density.
+>This project utilizes two main methodologies. First, as part of desk study that aims to understand migration dynamics of Northern Triangle migrants as well as Panama and Costa Rica’s capabilities and ongoing efforts, it will collect empirical evidence about the scope and density of Northern Triangle migrants in these countries. Researchers will exclusively use publically available immigration, employment, and public opinion statistics and data from Panama, Costa Rica, as well as Northern Triangle countries. The data then will be modeled using a nested model of analysis, beginning with descriptive statistics and building up to comparative and bivariate analyses. This portion of the project will allow us to better understand the scale of Northern Triangle out-migration throughout the region as well as the economic and social push/pull factors. Second, the project will utilize qualitative data collection by way of key informants that are professionals working in governmental and non-governmental migration organizations as well as focus groups with migrant populations in parts of Costa Rica and Panama with a high migrant density.
 
 **Preliminary Findings**
 
@@ -139,17 +139,15 @@ This project utilizes two main methodologies. First, as part of desk study that 
 
 ### Researcher ###
 
-CBRNe Data Suite 
+#### CBRNe Data Suite 
 
 November 2021 - Present
-
-**Description**
 
 **Responsibilities**
 
 - Lead developer producing secure open-source data portal capturing over 800 variables for 600 chemical, biological, radiological, and nuclear violent non-state actors, and incidents in Shiny
 
-Datasets for Modeling and Mitigating Insider Risk (D-MInR)
+#### Datasets for Modeling and Mitigating Insider Risk (D-MInR)
 
 May 2021 - September 2021
 
@@ -159,7 +157,7 @@ May 2021 - September 2021
 
 **Methods**
 
-Literature review, targeted search
+>Literature review, targeted search
 
 **Responsibilities**
 
@@ -167,7 +165,7 @@ Literature review, targeted search
 - Queried for and collected relevant datasets through Kaggle, Github, DataMart, and other online repositories of data
 - Reviewed researcher entries on datasets for accuracy and relevance
 
-Global Terrorism Database
+#### Global Terrorism Database
 
 September 2020 - May 2021
 
@@ -177,7 +175,7 @@ September 2020 - May 2021
 **Responsibilities**
 - Triage articles identifying new terrorist incidents to add to the database
 
-The Arctic All-Hazards GIS Platform
+#### The Arctic All-Hazards GIS Platform
 
 September 2020 - January 2021
 
