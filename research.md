@@ -5,9 +5,24 @@ title: Research
 
 # Research
 
+- Technical Lead
+    - [Development of Anticipatory Human Social Systems Models and Adversary Weapon Selection Decision Processes](#SIGMA)
+    - Monitor and Mitigate the Impact of COVID-19 on Public Safety
+    - Synthetic Population Assisted Human-in-the-loop Influence Operations Simulation (SPA-HiLIOS)
+- Project Manager
+    - Divergent Dimensions of Radicalization Risk: Migration and Violent Extremism in Sabah
+    - The Road Less Traveled: Bolstering the Absorptive Capacity of Southern Central American States to Facilitate the Southern Flow of Northern Triangle Immigrants
+- Researcher
+    - CBRNe Data Suite
+    - Datasets for Modeling and Mitigating Insider Risk (D-MInR)
+    - The Arctic All-Hazards GIS Platform
+    - Integrated Discovery of Emerging and Novel Technologies (IDENT)
+    - Global Terrorism Database (GTD)
+
 ## Technical Lead
 
-### Advancing U.S. CWMD/CWMT Capabilities in Support of the SIGMA+ Program through Development of Anticipatory Human Social Systems Models and Adversary Weapon Selection Decision Processes
+## SIGMA ##
+Development of Anticipatory Human Social Systems Models and Adversary Weapon Selection Decision Processes
 
 June 2019 - Present
 
