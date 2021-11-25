@@ -19,6 +19,8 @@ title: Research
     - Integrated Discovery of Emerging and Novel Technologies (IDENT)
     - Global Terrorism Database (GTD)
 
+***
+
 ### Technical Lead ###
 
 #### Development of Anticipatory Human Social Systems Models and Adversary Weapon Selection Decision Processes
@@ -40,6 +42,8 @@ June 2019 - Present
 #### Synthetic Population Assisted Human-in-the-loop Influence Operations Simulation (SPA-HiLIOS)
 
 December 2021 - Present 
+
+***
 
 ### Project Manager ###
 
@@ -136,6 +140,8 @@ Septmeber 2020 - February 2021
 
 - Writing monthly reports, tracking project progress, and financials
 - Coordinating invoices with third party translation services
+
+***
 
 ### Researcher ###
 
