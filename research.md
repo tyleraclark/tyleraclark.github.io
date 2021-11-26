@@ -194,7 +194,7 @@ September 2020 - January 2021
 - Designing user guide to teach stakeholders how to use the tool
 - Incorporating feedback from stakeholders into updates for user guide
 
-Integrated Discovery of Emerging and Novel Technologies (IDENT)
+#### Integrated Discovery of Emerging and Novel Technologies (IDENT)
 
 October 2019-December 2020
 
