@@ -4,25 +4,24 @@
   url: /
 
 - title: Publications
-  url: /publications/
+  url: /publications
   
 - title: Honors
-  url: /honors/
+  url: /honors
 
 - title: Side Projects
-  url: /projects/
-
-- title: Blog
-  url: /blog/
+  url: /projects
 
 - title: Coursework
-  url: /coursework/
+  url: /coursework
 
-- title: Projects
-  url: /projects/
+- title: About Me
+  url: /aboutme
 
 #header_pages:
 #  - index.md
 #  - publications.md
 #  - honors.md
+#  - projects.md
 #  - coursework.md
+#  - aboutme.md
