@@ -7,9 +7,11 @@ title: Coursework
 
 <h2> University of Maryland</h2>
 
-<h4> Post-Undergratuate (2020-Present) </h4>
+<h4> Ph.D. in Applied Statistics (2020-Present) </h4>
 
 <h4> Statistics </h4>
+
+[STAT 741](https://academiccatalog.umd.edu/graduate/courses/stat/): Linear Statistical Models II
 
 [STAT 740](https://academiccatalog.umd.edu/graduate/courses/stat/): Linear Statistical Models I
 

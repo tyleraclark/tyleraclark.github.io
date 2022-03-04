@@ -25,7 +25,7 @@ title: Research
 
 #### Development of Anticipatory Human Social Systems Models and Adversary Weapon Selection Decision Processes
 
-June 2019 - Present
+June 2019 - February 2022
 
 **Description**
 
@@ -41,7 +41,7 @@ June 2019 - Present
 
 #### Synthetic Population Assisted Human-in-the-loop Influence Operations Simulation (SPA-HiLIOS)
 
-December 2021 - Present 
+December 2021 - February 2022
 
 ***
 
@@ -147,7 +147,7 @@ Septmeber 2020 - February 2021
 
 #### CBRNe Data Suite 
 
-November 2021 - Present
+November 2021 - February 2022
 
 **Responsibilities**
 
@@ -204,3 +204,17 @@ October 2019-December 2020
 **Responsibilities**
 
 - Automating interactions outreach with community of interest
+
+<> (I have experience researching and managing projects across a variety of domains and funders including including the Department of Homeland Security,[^1]<sup>,</sup>[^2] Department of Defense,[^3] Department of State,[^4] US Coast Guard,[^5] and the Defense Advanced Research Projects Agency.[^6])
+
+<> ([^1]: [The Road Less Traveled: Bolstering the Absorptive Capacity of Southern Central American States to Facilitate the Southern Flow of Northern Triangle Immigrants](https://www.start.umd.edu/research-projects/road-less-traveled-bolstering-absorptive-capacity-southern-central-american-states).)
+
+<> ([^2]: [Monitor and Mitigate the Impact of COVID-19 on Public Safety](https://start.umd.edu/research-projects/monitor-and-mitigate-impact-covid-19-public-safety))
+
+<> ([^3]: [Datasets for Modeling and Mitigating Insider Risk (D-MInR)](https://start.umd.edu/research-projects/insider-threat-program))
+
+<> ([^4]: [Divergent Dimensions of Radicalization Risk: Migration and Violent Extremism in Sabah](https://www.start.umd.edu/research-projects/divergent-dimensions-radicalization-risk-migration-and-violent-extremism-sabah).)
+
+<> ([^5]: [The Arctic All-Hazards GIS Platform](https://www.start.umd.edu/research-projects/arctic-all-hazards-gis-platform).)
+
+<> ([^6]: [Advancing U.S. CWMD/CWMT Capabilities in Support of the SIGMA+ Program through Development of Anticipatory Human Social Systems Models and Adversary Weapon Selection Decision Processes](https://www.start.umd.edu/research-projects/advancing-us-cwmdcwmt-capabilities-support-sigma-program-through-development).)

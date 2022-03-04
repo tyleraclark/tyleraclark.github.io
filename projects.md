@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Projects
+title: Side Projects
 ---
 
 <head>

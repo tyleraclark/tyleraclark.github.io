@@ -7,27 +7,15 @@ title: Home
 
 I am an incoming Applied Statisitcs PhD student at the University of Maryland, College Park <a href="https://umd.edu/"><img src="https://raw.githubusercontent.com/tyleraclark/tyleraclark.github.io/main/_images/umd.png" width="20" height="20" /></a> and lead Data Scientist at Cruisebound <a href="https://www.cruisebound.com/about-us"><img src="https://raw.githubusercontent.com/tyleraclark/tyleraclark.github.io/main/favicon.ico" width="20" height="20" /></a>. 
 
-Previously, I was a mathematical modeling researcher at the National Consortium for the Study of Terrorism and Responses to Terrorism (START) <a href="https://www.cruisebound.com/about-us"><img src="https://raw.githubusercontent.com/tyleraclark/tyleraclark.github.io/main/_imgages/favicon.ico" width="20" height="20" /></a>. My reasearch focused on the application of statistical, computational, and mathematical methodologies to model and analyze the behavior of violent non-state actors, including natural language processing, machine learning, and stochastic processes. 
+Previously, I was a mathematical modeling researcher at the National Consortium for the Study of Terrorism and Responses to Terrorism (START) <a href="https://www.start.umd.edu"><img src="https://raw.githubusercontent.com/tyleraclark/tyleraclark.github.io/main/_images/favicon.ico" width="20" height="20" /> </a>. My reasearch focused on the application of statistical, computational, and mathematical methodologies to model and analyze the behavior of violent non-state actors, including natural language processing, machine learning, and stochastic processes. 
 
-I have experience researching and managing projects across a variety of domains and funders including including the Department of Homeland Security,[^1]<sup>,</sup>[^2] Department of Defense,[^3] Department of State,[^4] US Coast Guard,[^5] and the Defense Advanced Research Projects Agency.[^6]
-
-[^1]: [The Road Less Traveled: Bolstering the Absorptive Capacity of Southern Central American States to Facilitate the Southern Flow of Northern Triangle Immigrants](https://www.start.umd.edu/research-projects/road-less-traveled-bolstering-absorptive-capacity-southern-central-american-states).
-
-[^2]: [Monitor and Mitigate the Impact of COVID-19 on Public Safety](https://start.umd.edu/research-projects/monitor-and-mitigate-impact-covid-19-public-safety)
-
-[^3]: [Datasets for Modeling and Mitigating Insider Risk (D-MInR)](https://start.umd.edu/research-projects/insider-threat-program)
-
-[^4]: [Divergent Dimensions of Radicalization Risk: Migration and Violent Extremism in Sabah](https://www.start.umd.edu/research-projects/divergent-dimensions-radicalization-risk-migration-and-violent-extremism-sabah).
-
-[^5]: [The Arctic All-Hazards GIS Platform](https://www.start.umd.edu/research-projects/arctic-all-hazards-gis-platform).
-
-[^6]: [Advancing U.S. CWMD/CWMT Capabilities in Support of the SIGMA+ Program through Development of Anticipatory Human Social Systems Models and Adversary Weapon Selection Decision Processes](https://www.start.umd.edu/research-projects/advancing-us-cwmdcwmt-capabilities-support-sigma-program-through-development).
+I am currently interested in using stochastic behavioral modeling, subgraph matching, anomaly detection, and fair clustering.
 
 ### Contact Me
 
 `tclark12[at]umd.edu`
 
 <a href="https://www.cruisebound.com/about-us"><img src="https://raw.githubusercontent.com/tyleraclark/tyleraclark.github.io/main/favicon.ico" width="20" height="20" /></a>
-<a href="https://www.start.umd.edu/people/tyler-clark/"><img src="https://raw.githubusercontent.com/tyleraclark/tyleraclark.github.io/main/_images/favicon.ico" width="20" height="20" /> </a>
 <a href="https://www.linkedin.com/in/tyler-a-clark/"><img src="https://github.com/tyleraclark/tyleraclark.github.io/blob/main/_images/LinkedIn.png?raw=true" width="20" height="20" /> </a>
 <a href="https://github.com/tyleraclark"><img src="https://raw.githubusercontent.com/tyleraclark/tyleraclark.github.io/main/_images/github.svg" width="20" height="20" /> </a>
+<a href="https://www.start.umd.edu/people/tyler-clark/"><img src="https://raw.githubusercontent.com/tyleraclark/tyleraclark.github.io/main/_images/favicon.ico" width="20" height="20" /> </a>
