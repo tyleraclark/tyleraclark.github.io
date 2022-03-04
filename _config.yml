@@ -1,5 +1,5 @@
 theme: minima
-description: A webpage for a UMD affiliated researcher who focuses on leveraging data analysis, mathematical modeling, and open-source research into outcome-oriented public policy solutions.
+description: A webpage for a UMD affiliated researcher who focuses on leveraging statistical inference, machine learning, and data analysis into outcome-oriented public policy and business solutions.
 
 # Site wide configuration
 title: Tyler A. Clark
@@ -7,9 +7,9 @@ locale: en_US
 
 header_pages:
   - index.md
-  - cv.md
   - publications.md
   - research.md
+  - projects.md
   - honors.md
   - coursework.md
   - aboutme.md
