@@ -70,6 +70,7 @@ a:active {
 }
 
 </style>
+</head>
 
 <h1>Projects</h1>
 
