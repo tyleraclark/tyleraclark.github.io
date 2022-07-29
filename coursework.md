@@ -35,79 +35,79 @@ title: Coursework
 
 <h4>Mathematics</h4>
 
-[MAT 495](http://conncoll.smartcatalogiq.com/2020-2021/Catalog/Courses/MAT-MATHEMATICS/400/MAT-495): Seminar in Mathematics
+[MAT 495](https://conncoll.smartcatalogiq.com/2020-2021/Catalog/Courses/MAT-MATHEMATICS/400/MAT-495): Seminar in Mathematics
 
-[MAT 392](http://conncoll.smartcatalogiq.com/2020-2021/Catalog/Courses/MAT-MATHEMATICS/300/MAT-309): Individual Study in Complex Analysis
+[MAT 392](https://conncoll.smartcatalogiq.com/2020-2021/Catalog/Courses/MAT-MATHEMATICS/300/MAT-309): Individual Study in Complex Analysis
 
-[MAT 312](http://conncoll.smartcatalogiq.com/2020-2021/Catalog/Courses/MAT-MATHEMATICS/300/MAT-312): Mathematical Methods for the Physical Sciences
+[MAT 312](https://conncoll.smartcatalogiq.com/2020-2021/Catalog/Courses/MAT-MATHEMATICS/300/MAT-312): Mathematical Methods for the Physical Sciences
 
-[MAT 303](http://conncoll.smartcatalogiq.com/2020-2021/Catalog/Courses/MAT-MATHEMATICS/300/MAT-303): Abstract Algebra I
+[MAT 303](https://conncoll.smartcatalogiq.com/2020-2021/Catalog/Courses/MAT-MATHEMATICS/300/MAT-303): Abstract Algebra I
 
-[MAT 301](http://conncoll.smartcatalogiq.com/2020-2021/Catalog/Courses/MAT-MATHEMATICS/300/MAT-301): Real Analysis I
+[MAT 301](https://conncoll.smartcatalogiq.com/2020-2021/Catalog/Courses/MAT-MATHEMATICS/300/MAT-301): Real Analysis I
 
-[MAT 226](http://conncoll.smartcatalogiq.com/2020-2021/Catalog/Courses/MAT-MATHEMATICS/200/MAT-226): Linear Algebra
+[MAT 226](https://conncoll.smartcatalogiq.com/2020-2021/Catalog/Courses/MAT-MATHEMATICS/200/MAT-226): Linear Algebra
 
-[MAT 225](http://conncoll.smartcatalogiq.com/2020-2021/Catalog/Courses/MAT-MATHEMATICS/200/MAT-225): Ordinary Differential Equations
+[MAT 225](https://conncoll.smartcatalogiq.com/2020-2021/Catalog/Courses/MAT-MATHEMATICS/200/MAT-225): Ordinary Differential Equations
 
-[MAT 212](http://conncoll.smartcatalogiq.com/2020-2021/Catalog/Courses/MAT-MATHEMATICS/200/MAT-212): Multivariable Calculus
+[MAT 212](https://conncoll.smartcatalogiq.com/2020-2021/Catalog/Courses/MAT-MATHEMATICS/200/MAT-212): Multivariable Calculus
 
-[MAT 210](http://conncoll.smartcatalogiq.com/2020-2021/Catalog/Courses/MAT-MATHEMATICS/200/MAT-210): Discrete Mathematics
+[MAT 210](https://conncoll.smartcatalogiq.com/2020-2021/Catalog/Courses/MAT-MATHEMATICS/200/MAT-210): Discrete Mathematics
 
-[MAT 113](http://conncoll.smartcatalogiq.com/2020-2021/Catalog/Courses/MAT-MATHEMATICS/100/MAT-113): Calculus C: Integrals and Series
+[MAT 113](https://conncoll.smartcatalogiq.com/2020-2021/Catalog/Courses/MAT-MATHEMATICS/100/MAT-113): Calculus C: Integrals and Series
 
 <h4>Physics</h4>
 
-[PHY 404](http://conncoll.smartcatalogiq.com/en/2020-2021/Catalog/Courses/PHY-PHYSICS/400/PHY-404): Quantum Mechanics
+[PHY 404](https://conncoll.smartcatalogiq.com/en/2020-2021/Catalog/Courses/PHY-PHYSICS/400/PHY-404): Quantum Mechanics
 
-[PHY 324](http://conncoll.smartcatalogiq.com/en/2020-2021/Catalog/Courses/PHY-PHYSICS/300/PHY-324): Electromagnetic Theory 
+[PHY 324](https://conncoll.smartcatalogiq.com/en/2020-2021/Catalog/Courses/PHY-PHYSICS/300/PHY-324): Electromagnetic Theory 
 
-[PHY 320](http://conncoll.smartcatalogiq.com/en/2020-2021/Catalog/Courses/PHY-PHYSICS/300/PHY-320): Thermodynamics and Statistical Mechanics
+[PHY 320](https://conncoll.smartcatalogiq.com/en/2020-2021/Catalog/Courses/PHY-PHYSICS/300/PHY-320): Thermodynamics and Statistical Mechanics
 
-[PHY 319](http://conncoll.smartcatalogiq.com/en/2020-2021/Catalog/Courses/PHY-PHYSICS/300/PHY-319): Classical Mechanics
+[PHY 319](https://conncoll.smartcatalogiq.com/en/2020-2021/Catalog/Courses/PHY-PHYSICS/300/PHY-319): Classical Mechanics
 
-[PHY 215](http://conncoll.smartcatalogiq.com/en/2020-2021/Catalog/Courses/PHY-PHYSICS/200/PHY-215): Modern Physics
+[PHY 215](https://conncoll.smartcatalogiq.com/en/2020-2021/Catalog/Courses/PHY-PHYSICS/200/PHY-215): Modern Physics
 
-[PHY 208](http://conncoll.smartcatalogiq.com/en/2020-2021/Catalog/Courses/PHY-PHYSICS/200/PHY-208): Experimental Physics
+[PHY 208](https://conncoll.smartcatalogiq.com/en/2020-2021/Catalog/Courses/PHY-PHYSICS/200/PHY-208): Experimental Physics
 
-[PHY 110](http://conncoll.smartcatalogiq.com/en/2020-2021/Catalog/Courses/PHY-PHYSICS/100/PHY-110): Advanced General Physics II
+[PHY 110](https://conncoll.smartcatalogiq.com/en/2020-2021/Catalog/Courses/PHY-PHYSICS/100/PHY-110): Advanced General Physics II
 
-[PHY 109](http://conncoll.smartcatalogiq.com/en/2020-2021/Catalog/Courses/PHY-PHYSICS/100/PHY-109): Advanced General Physics I
+[PHY 109](https://conncoll.smartcatalogiq.com/en/2020-2021/Catalog/Courses/PHY-PHYSICS/100/PHY-109): Advanced General Physics I
 
 <h4>Computer Science</h4>
 
-[COM 211](http://conncoll.smartcatalogiq.com/2020-2021/Catalog/Courses/COM-COMPUTER-SCIENCE/200/COM-211): Informatics
+[COM 211](https://conncoll.smartcatalogiq.com/2020-2021/Catalog/Courses/COM-COMPUTER-SCIENCE/200/COM-211): Informatics
 
 <h4>Political Science, Public Policy, and International Affairs</h4>
 
-[HIS 306/ECO 305](http://conncoll.smartcatalogiq.com/2020-2021/Catalog/Courses/HIS-HISTORY/300/HIS-306): Globalization of Urban Poverty
+[HIS 306/ECO 305](https://conncoll.smartcatalogiq.com/2020-2021/Catalog/Courses/HIS-HISTORY/300/HIS-306): Globalization of Urban Poverty
 
-[GIS 262](http://conncoll.smartcatalogiq.com/2020-2021/Catalog/Courses/GER-GERMAN-STUDIES/200/GER-262): Refugee Crisis in Europe
+[GIS 262](https://conncoll.smartcatalogiq.com/2020-2021/Catalog/Courses/GER-GERMAN-STUDIES/200/GER-262): Refugee Crisis in Europe
 
-[GIS 252](http://conncoll.smartcatalogiq.com/2020-2021/Catalog/Courses/ANT-ANTHROPOLOGY/200/ANT-252): Islam and the United States
+[GIS 252](https://conncoll.smartcatalogiq.com/2020-2021/Catalog/Courses/ANT-ANTHROPOLOGY/200/ANT-252): Islam and the United States
 
-[GIS 102](http://conncoll.smartcatalogiq.com/2020-2021/Catalog/Courses/GIS-GLOBAL-ISLAMIC-STUDIES/100/GIS-102): Introduction to Global Islamic Studies
+[GIS 102](https://conncoll.smartcatalogiq.com/2020-2021/Catalog/Courses/GIS-GLOBAL-ISLAMIC-STUDIES/100/GIS-102): Introduction to Global Islamic Studies
 
-[GOV 112](http://conncoll.smartcatalogiq.com/2020-2021/Catalog/Courses/GOV-GOVERNMENT/100/GOV-112): Comparative Politics
+[GOV 112](https://conncoll.smartcatalogiq.com/2020-2021/Catalog/Courses/GOV-GOVERNMENT/100/GOV-112): Comparative Politics
 
-[ECO 112](http://conncoll.smartcatalogiq.com/2020-2021/Catalog/Courses/ECO-ECONOMICS/100/ECO-112): Introduction to Microeconomics
+[ECO 112](https://conncoll.smartcatalogiq.com/2020-2021/Catalog/Courses/ECO-ECONOMICS/100/ECO-112): Introduction to Microeconomics
 
 <h4>Additional Courses</h4>
 
-[SPA 207](http://conncoll.smartcatalogiq.com/2020-2021/Catalog/Courses/SPA-HISPANIC-STUDIES/200/SPA-207): Advanced Grammar and Composition
+[SPA 207](https://conncoll.smartcatalogiq.com/2020-2021/Catalog/Courses/SPA-HISPANIC-STUDIES/200/SPA-207): Advanced Grammar and Composition
 
-[ENG 155B](http://conncoll.smartcatalogiq.com/2020-2021/Catalog/Courses/ENG-ENGLISH/200/ENG-221): Writing Narrative from Identity
+[ENG 155B](https://conncoll.smartcatalogiq.com/2020-2021/Catalog/Courses/ENG-ENGLISH/200/ENG-221): Writing Narrative from Identity
 
-[CLA 104](http://conncoll.smartcatalogiq.com/2020-2021/Catalog/Courses/CLA-CLASSICS/100/CLA-104): Classical Mythology
+[CLA 104](https://conncoll.smartcatalogiq.com/2020-2021/Catalog/Courses/CLA-CLASSICS/100/CLA-104): Classical Mythology
 
 <h2>University of Edinburgh</h2> 
 
 <h4>Study Away Semester (Fall 2017)</h4>
 
-[MATH 10066](http://www.drps.ed.ac.uk/17-18/dpt/cxmath10066.htm): Honours Differential Equations
+[MATH 10066](https://www.drps.ed.ac.uk/17-18/dpt/cxmath10066.htm): Honours Differential Equations
 
-[INFR 08022](http://www.drps.ed.ac.uk/17-18/dpt/cxinfr08022.htm): Computer Programming Skills and Concepts
+[INFR 08022](https://www.drps.ed.ac.uk/17-18/dpt/cxinfr08022.htm): Computer Programming Skills and Concepts
 
-[IMES 08036](http://www.drps.ed.ac.uk/17-18/dpt/cximes08036.htm): Modern Middle Eastern History A: Domestic Transformation and International Challenges
+[IMES 08036](https://www.drps.ed.ac.uk/17-18/dpt/cximes08036.htm): Modern Middle Eastern History A: Domestic Transformation and International Challenges
 
 <h2>Washington University in St. Louis</h2>
 
