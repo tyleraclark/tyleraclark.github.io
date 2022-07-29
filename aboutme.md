@@ -3,7 +3,13 @@ layout: page
 title: About Me
 ---
 
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
+* {
+  box-sizing: border-box;
+}
+  
   /* Create two equal columns that floats next to each other */
   .column {
     float: left;
@@ -18,6 +24,7 @@ title: About Me
     clear: both;
   }
 </style>
+</head>
   
 <h1>About Me</h1>
 
