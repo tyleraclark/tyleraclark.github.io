@@ -37,14 +37,14 @@ title: About Me
 <h1>About Me</h1>
 
 <div class="row">
-  <div class="column">
+  <div class="left column">
     <figure>
     <img src="https://raw.githubusercontent.com/tyleraclark/tyleraclark.github.io/main/_images/258 (2).jpg" alt="A picture of Tyler A. Clark from 2021" width="100%" height="100%"/> 
       <figcaption>Me in 2021</figcaption>
     </figure>
   </div>
 
-  <div class="column">
+  <div class="right column">
     <div class = "text">
       I am the lead Data Scientist at Cruisebound <a href="https://www.cruisebound.com/about-us"><img src="https://raw.githubusercontent.com/tyleraclark/tyleraclark.github.io/main/favicon.ico" width="20" height="20" /></a> and an Applied Statisitcs PhD student at the University of Maryland, College Park <a href="https://umd.edu/"><img src="https://raw.githubusercontent.com/tyleraclark/tyleraclark.github.io/main/_images/umd.png" width="20" height="20" /></a>.
       <br>
