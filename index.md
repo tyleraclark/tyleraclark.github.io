@@ -13,7 +13,7 @@ I am currently interested in using stochastic behavioral modeling, subgraph matc
 
 ### Contact Me
 
-`tclark12[at]umd.edu`
+`me[at]tyleraclark.com`
 
 <a href="https://www.cruisebound.com/about-us"><img src="https://raw.githubusercontent.com/tyleraclark/tyleraclark.github.io/main/favicon.ico" width="20" height="20" /></a>
 <a href="https://www.linkedin.com/in/tyler-a-clark/"><img src="https://github.com/tyleraclark/tyleraclark.github.io/blob/main/_images/LinkedIn.png?raw=true" width="20" height="20" /> </a>
