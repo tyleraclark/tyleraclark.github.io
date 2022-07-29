@@ -39,8 +39,8 @@ title: About Me
 <div class="row">
   <div class="column">
     <figure>
-    <img src="https://raw.githubusercontent.com/tyleraclark/tyleraclark.github.io/main/_images/a_photo_of_me.jpg" alt="A picture of Tyler A. Clark from 2018" width="100%" height="100%"/> 
-      <figcaption>Me in 2018</figcaption>
+    <img src="https://raw.githubusercontent.com/tyleraclark/tyleraclark.github.io/main/_images/258 (2).jpg" alt="A picture of Tyler A. Clark from 2021" width="100%" height="100%"/> 
+      <figcaption>Me in 2021</figcaption>
     </figure>
   </div>
 
