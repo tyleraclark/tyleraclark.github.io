@@ -7,7 +7,7 @@ title: Home
 
 I am a Data Scientist at Cruisebound <a href="https://www.cruisebound.com/about-us"><img src="https://raw.githubusercontent.com/tyleraclark/tyleraclark.github.io/main/favicon.ico" width="20" height="20" /></a> and an Applied Statistics PhD student at the University of Maryland, College Park <a href="https://umd.edu/"><img src="https://raw.githubusercontent.com/tyleraclark/tyleraclark.github.io/main/_images/umd.png" width="20" height="20" /></a>.
 
-Previously, I was a mathematical modeling researcher at the National Consortium for the Study of Terrorism and Responses to Terrorism (START) <a href="https://www.start.umd.edu"><img src="https://raw.githubusercontent.com/tyleraclark/tyleraclark.github.io/main/_images/favicon.ico" width="20" height="20" /> </a>. My reasearch focused on the application of statistical, computational, and mathematical methodologies to model and analyze the behavior of violent non-state actors, including natural language processing, machine learning, and stochastic processes. 
+Previously, I was a mathematical modeling researcher at the National Consortium for the Study of Terrorism and Responses to Terrorism (START) <a href="https://www.start.umd.edu"><img src="https://raw.githubusercontent.com/tyleraclark/tyleraclark.github.io/main/_images/favicon.ico" width="20" height="20" /> </a>. My research focused on the application of statistical, computational, and mathematical methodologies to model and analyze the behavior of violent non-state actors, including natural language processing, machine learning, and stochastic processes. 
 
 I am currently interested in using stochastic behavioral modeling, subgraph matching, anomaly detection, and fair clustering.
 
