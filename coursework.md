@@ -7,7 +7,7 @@ title: Coursework
 
 <h2> University of Maryland</h2>
 
-<h4> Ph.D. in Applied Statistics (2020-Present) </h4>
+<h4> Ph.D. in Applied Statistics (2022-Present) </h4>
 
 <h4> Statistics </h4>
 
