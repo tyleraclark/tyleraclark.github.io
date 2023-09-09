@@ -5,7 +5,7 @@ title: Publications
 
 # Select Publications & Presentations
 
-Clark, T.A., Guarrieri, T.R., Saxena, A., Sin, S.S. (Pre-print). A Semi-Stochastic Algorithm Approach to Generating CBRNe Terrorist Attack Plot Narratives and Graphs. 
+Clark, T.A., Guarrieri, T.R., Saxena, A., Sin, S.S. (2023, May). A semi-stochastic algorithm approach to generating CBRNE terrorist attack plot scenarios. Journal of Policing, Intelligence and Counter Terrorism, doi: https://doi.org/10.1080/18335330.2023.2228536
 
 Clark, T.A., Romm, M., Saxena, A., Garinther, A., Boyd, M. (2021, December). “Impact of COVID-19 on First Responders,” (Draft) to the Department of Homeland Security in support of Advance Situational Awareness Capabilities in support of Targeted Violence and Threat Prevention in the United States. College Park, MD: START. 
 
