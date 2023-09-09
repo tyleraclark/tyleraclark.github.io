@@ -11,11 +11,17 @@ title: Coursework
 
 <h4> Statistics </h4>
 
+[STAT 750](https://academiccatalog.umd.edu/graduate/courses/stat/): Multivariate Analysis
+
 [STAT 741](https://academiccatalog.umd.edu/graduate/courses/stat/): Linear Statistical Models II
 
 [STAT 740](https://academiccatalog.umd.edu/graduate/courses/stat/): Linear Statistical Models I
 
 [STAT 705](https://academiccatalog.umd.edu/graduate/courses/stat/): Computational Statistics
+
+[STAT 701](https://academiccatalog.umd.edu/graduate/courses/stat/): Mathematical Statistics II
+
+[STAT 700](https://academiccatalog.umd.edu/graduate/courses/stat/): Mathematical Statistics I
 
 [STAT 420](https://www-math.umd.edu/undergraduate/departmental-course-pages/offered-courses/415-stat-420-introduction-to-statistics.html): Theory and Method of Statistics
 
@@ -23,9 +29,14 @@ title: Coursework
 
 <h4> Computer Science </h4>
 
+[CMSC 828C](https://ece.umd.edu/course-schedule/course/ENEE633): Statistical Pattern Recognition
+
+[CMSC 742](https://www.cs.umd.edu/class/spring2023/cmsc742/): Algorithms in Machine Learning: Guarantees and Analyses
+- [Improving the Trade-Off Between Group Fairness and Accuracy and Individual Fairness Using Heterogeneous Treatment Effect Analysis and Enforcing Equalized Odds Between Subgroups](https://arxiv.org)
+
 [CMSC 320](https://cmsc320.github.io/2021/index.html): Introduction to Data Science
 - A fun [project](https://tyleraclark.github.io/projects/CMSC320_project_2.html) using simple regression techniques in Python and SQL to investigate MLB Payrolls before and after the Moneyball era
-- A [project](https://tyleraclark.github.io/projects/CMSC320_final_project.html) using natural language processing and machine learning in Python to analyze trends in University of Maryland's Global Terrorism Database
+- A [project](https://tyleraclark.github.io/projects/CMSC320_final_project.html) using natural language processing and machine learning in Python to analyze trends in the University of Maryland's Global Terrorism Database
 
 [CMSC 216](https://academiccatalog.umd.edu/undergraduate/approved-courses/cmsc/): Introduction to Computer Systems
 
