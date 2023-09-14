@@ -15,4 +15,4 @@ David G. Fenton Physics Prize for excellence in physics, Connecticut College, 20
 
 Jay Levin ’73 Award, Connecticut College, 2019
 
-Julia Wells Bower Prize for distinstinction in mathematics, Connecticut College, 2017, 2018
+Julia Wells Bower Prize for distinction in mathematics, Connecticut College, 2017, 2018
