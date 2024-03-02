@@ -35,7 +35,7 @@ title: Home
 
 <h1>Welcome</h1>
 
-<h2>About Me</h1>
+<h2>About Me</h2>
 
 <div class="row">
   <div class="left column">
