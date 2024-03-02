@@ -39,14 +39,7 @@ title: Home
 
 <div class="row">
   <div class="left column">
-    <figure>
-    <img src="https://raw.githubusercontent.com/tyleraclark/tyleraclark.github.io/main/_images/258 (2).jpg" alt="A picture of Tyler A. Clark from 2021" width="100%" height="100%"/> 
-      <figcaption>Me in 2021</figcaption>
-    </figure>
-  </div>
-
-  <div class="right column">
-    <div class = "text">
+        <div class = "text">
       I am a Data Scientist at Cruisebound <a href="https://www.cruisebound.com/about-us"><img src="https://raw.githubusercontent.com/tyleraclark/tyleraclark.github.io/main/favicon.ico" width="20" height="20" /></a> and an Applied Statistics PhD student at the University of Maryland, College Park <a href="https://umd.edu/"><img src="https://raw.githubusercontent.com/tyleraclark/tyleraclark.github.io/main/_images/umd.png" width="20" height="20" /></a>.
       <br>
       <br>
@@ -58,6 +51,14 @@ title: Home
       <br>
       I am currently interested in statistical properties of deep neural network models, concentration inequalities, measures of fairness in deep learning, and applications of rank reduction to transformer-based models. 
     </div>
+  </div>
+
+
+  <div class="right column">
+    <figure>
+      <img src="https://raw.githubusercontent.com/tyleraclark/tyleraclark.github.io/main/_images/258 (2).jpg" alt="A picture of Tyler A. Clark from 2021" width="100%" height="100%"/> 
+      <figcaption>Me in 2021</figcaption>
+    </figure>
   </div>
 </div>
 
