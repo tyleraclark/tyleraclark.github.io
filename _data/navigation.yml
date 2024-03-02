@@ -1,27 +1,25 @@
-# Site navigation links
+# main links links
+main:
+  - title: "Publications"
+    url: /publications/
 
-- title: Home
-  url: /
+  - title: "Talks"
+    url: /talks/    
 
-- title: Publications
-  url: /publications
-  
-- title: Honors
-  url: /honors
+  - title: "Teaching"
+    url: /teaching/    
+    
+  - title: "Research"
+    url: /research/
 
-- title: Side Projects
-  url: /projects
+#  - title: "Portfolio"
+#    url: /portfolio/
 
-- title: Coursework
-  url: /coursework
-
-- title: About Me
-  url: /aboutme
-
-#header_pages:
-#  - index.md
-#  - publications.md
-#  - honors.md
-#  - projects.md
-#  - coursework.md
-#  - aboutme.md
+  - title: "Honors"
+    url: /honors/
+        
+  - title: "Posts"
+    url: /year-archive/
+    
+  - title: "CV"
+    url: /cv/
