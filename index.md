@@ -17,11 +17,11 @@ title: Home
   }
   
   .left {
-    width: 25%;
+    width: 33%;
   }
 
   .right {
-    width: 75%;
+    width: 33%;
   }
 
   /* Clear floats after the columns */
