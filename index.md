@@ -12,7 +12,7 @@ title: Home
   /* Create two equal columns that floats next to each other */
   .column {
     float: left;
-    width: 50%;
+    width: 100%;
     padding: 10px;
   }
   
