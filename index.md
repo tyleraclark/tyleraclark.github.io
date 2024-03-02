@@ -17,7 +17,7 @@ title: Home
   }
   
   .left {
-    width: 33%;
+    width: 50%;
   }
 
   .right {
