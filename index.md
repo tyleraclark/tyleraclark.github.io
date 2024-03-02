@@ -13,15 +13,15 @@ title: Home
   .column {
     float: left;
     width: 50%;
-    padding: 5px;
+    padding: 10px;
   }
   
   .left {
-    width: 33%;
+    width: 25%;
   }
 
   .right {
-    width: 67%;
+    width: 75%;
   }
 
   /* Clear floats after the columns */
