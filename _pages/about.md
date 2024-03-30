@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Data Scientist at Cruisebound <a href="https://www.cruisebound.com/about-us"><img src="/images/favicon-cruisebound.ico" width="20" height="20" /></a> and an Applied Statistics PhD student at the University of Maryland, College Park <a href="https://umd.edu/"><img src="/images/umd.png" width="20" height="20" /></a>.
+I am a Senior Data Scientist at Cruisebound <a href="https://www.cruisebound.com/about-us"><img src="/images/favicon-cruisebound.ico" width="20" height="20" /></a> and an Applied Statistics PhD student at the University of Maryland, College Park <a href="https://umd.edu/"><img src="/images/umd.png" width="20" height="20" /></a>.
 
 I am currently interested in statistical properties of deep neural network models, concentration inequalities, measures of fairness in deep learning, and applications of rank reduction to transformer-based models. 
 
