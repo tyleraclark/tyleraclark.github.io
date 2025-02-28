@@ -9,13 +9,13 @@ redirect_from:
 
 I am a Senior Data Scientist at Cruisebound <a href="https://www.cruisebound.com/about-us"><img src="/images/favicon-cruisebound.ico" width="20" height="20" /></a> and an Applied Statistics PhD student at the University of Maryland, College Park <a href="https://umd.edu/"><img src="/images/umd.png" width="20" height="20" /></a>.
 
-I am currently interested in statistical properties of deep neural network models, concentration inequalities, measures of fairness in deep learning, and applications of rank reduction to transformer-based models. 
+I am currently interested in statistical properties of deep neural network models, specifically with respect to fairness, adversarially robustness, and Bayesian double descent. 
 
 History
 ======
-I received my B.A. in Mathematics and Physics, both with distinction, from Connecticut College<a href="https://conncoll.edu/"><img src="/images/CC.svg" width="20" height="20" /></a> in 2019.
+I received my B.A. in Mathematics and Physics, both with distinction, from Connecticut College<a href="https://conncoll.edu/"><img src="/images/CC.svg" width="20" height="20" /></a> in May 2019. I received my M.S. in Applied Mathematics & Statistics, and Scientific Computation with an application in Artificial Intelligence from the University of Maryland, College Park in December 2024.
 
-Previously, I was a mathematical modeling researcher at the National Consortium for the Study of Terrorism and Responses to Terrorism (START) <a href="https://www.start.umd.edu"><img src="/images/favicon-start.ico" width="20" height="20" /> </a>. My research focused on the application of statistical, computational, and mathematical methodologies to model and analyze the behavior of violent non-state actors, including natural language processing, machine learning, and stochastic processes. 
+Previously, I was a mathematical modeling researcher at the National Consortium for the Study of Terrorism and Responses to Terrorism (START) <a href="https://www.start.umd.edu"><img src="/images/favicon-start.ico" width="20" height="20" /></a>. My research focused on the application of statistical, computational, and mathematical methodologies to model and analyze the behavior of violent non-state actors, including natural language processing, machine learning, and stochastic processes. 
 
 <!-- Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
 
